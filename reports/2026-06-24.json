@@ -1,0 +1,90 @@
+{
+  "reportNumber": 1,
+  "date": "2026-06-24",
+  "title": "AI İşten Çıkarmalar, Faiz Sinyali ve Kripto Durgunluğu: Piyasaları Sarsan Üç Dalga",
+  "topStory": "Oracle'ın bir yılda 21.000 kişiyi AI gerekçesiyle işten çıkarması, teknoloji sektöründe yapay zekanın artık yalnızca bir büyüme aracı değil, doğrudan istihdam silgisi olduğunu teyit etti. Öte yandan FOMC, faiz indirim eğilimini metinden çıkararak piyasalara olası artış sinyali verdi; bu karar, zaten ATH'nin 43.500 dolar altında seyreden Bitcoin ve baskı altındaki Ethereum için ek bir belirsizlik katmanı oluşturdu. Küresel AI fon patlamasının fiilen ABD'ye ve yalnızca iki şirkete—OpenAI ile Anthropic'e—kilitlendiği bu tablo, 2026'nın ortasında hem teknoloji hem finans cephesinde güç yoğunlaşmasının hız kazandığına işaret ediyor.",
+  "sections": [
+    {
+      "key": "tech-ai",
+      "name": "Teknoloji & AI",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Oracle, son bir yılda 21.000 çalışanını işten çıkardı; şirket bu kesintileri doğrudan AI teknolojilerinin operasyonlarda benimsenmesiyle ilişkilendirdi. Çalışan sayısı 141.000'e gerilerken AI altyapısına yapılan sermaye harcamaları %162 artarak 55,7 milyar dolara ulaştı.",
+          "why": "Kurumsal AI'ın artık salt bir verimlilik aracı değil, büyük ölçekli iş gücü dönüşümünün doğrudan tetikleyicisi olduğunu somut rakamlarla ortaya koyuyor.",
+          "sourceUrl": "https://techstartups.com/2026/06/23/top-tech-news-today-june-23-2026/",
+          "sourceTitle": "Top Tech News Today, June 23, 2026 - Tech Startups"
+        },
+        {
+          "summary": "SAP Sapphire 2026'da duyurulan SAP Business AI Platform ve Joule Studio 2.0, kurumsal AI'ı pilot aşamasında kilitleyen veri parçalanması sorununu çözmeyi hedefliyor; Business Data Cloud, Knowledge Graph ve Domain Models tek bir bağlam katmanında birleştiriliyor.",
+          "why": "SAP'nin bu adımı, ERP ekosisteminde AI'ın gerçek üretim ortamlarına taşınmasının önündeki en büyük teknik engeli ortadan kaldırma iddiası taşıdığından kurumsal yazılım sektörü için kritik bir kırılma noktası.",
+          "sourceUrl": "https://erp.today/sap-business-ai-platform-consolidates-sap-btp-stack-to-solve-enterprise-ai-fragmentation/",
+          "sourceTitle": "SAP Sapphire 2026: SAP Business AI Platform Consolidates SAP BTP Stack"
+        },
+        {
+          "summary": "Google, Gemini 3 Flash'ı milyonlarca kullanıcıya küresel ölçekte açarken düşük gecikme ve yüksek hacimli iş yükleri için optimize edilen Gemini 3.1 Flash-Lite modelini de genel önizlemede sundu.",
+          "why": "Google'ın aynı anda birden fazla Gemini versiyonu yayımlaması, AI model rekabetinin hız ve maliyet verimliliği ekseninde yoğunlaştığını gösteriyor.",
+          "sourceUrl": "https://blog.google/products/gemini/gemini-3-flash/",
+          "sourceTitle": "Introducing Gemini 3 Flash: Benchmarks, global availability"
+        },
+        {
+          "summary": "Architect Labs, Anthropic, DeepMind, xAI ve Google'dan araştırmacılardan oluşan ekibiyle uçtan uca özel çip tasarımı yapan bir AI sistemi geliştirmek için 24 milyon dolarlık tohum yatırım aldı.",
+          "why": "AI rekabetinin model katmanından donanım ve silikon tasarım katmanına kaydığını gösteren bu yatırım, 'AI ile çip tasarımı' alanının yatırımcılar için yeni bir öncelik haline geldiğine işaret ediyor.",
+          "sourceUrl": "https://www.businesswire.com/news/home/20260618895194/en/Architect-Labs-Raises-$24M-Seed-to-Democratize-Custom-Chip-Design",
+          "sourceTitle": "Architect Labs Raises $24M Seed to Democratize Custom Chip Design"
+        },
+        {
+          "summary": "2026'da AI startup fonlamasının %88'i (319 milyar dolar) ABD'ye giderken bu tutarın büyük çoğunluğu yalnızca OpenAI ve Anthropic'e aktarıldı; küresel AI fon patlaması pratikte ABD'ye özgü bir fenomen olarak şekilleniyor.",
+          "why": "Fonlamanın bu denli coğrafi yoğunlaşması, ABD dışındaki AI ekosistemlerinin gelişimini yapısal olarak kısıtlayarak küresel AI rekabetinde derin bir asimetri yaratıyor.",
+          "sourceUrl": "https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/",
+          "sourceTitle": "The AI Startup Funding Boom Is Not A Global Phenomenon - Crunchbase"
+        }
+      ]
+    },
+    {
+      "key": "finance-crypto",
+      "name": "Finans & Kripto",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Kevin Warsh liderliğinde toplanan FOMC, federal fon faizini %3,5–3,75 aralığında sabit tuttu. Ancak 'gelecekte faiz indirimine eğilim' ifadesi metinden çıkarıldı; piyasalar olası faiz artışı sinyalini fiyatlamaya başladı.",
+          "why": "Fed'in yeni yönetim altında şahinleşen tonu, risk varlıkları ve kripto üzerinde baskı oluşturma potansiyeli taşıyor.",
+          "sourceUrl": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
+          "sourceTitle": "Fed interest rate decision June 2026: Fed holds rates steady – CNBC"
+        },
+        {
+          "summary": "Bitcoin, 24 Haziran 2026 itibarıyla 62.520–62.651 dolar bandında seyrediyor; 24 saatlik hacim 11,84 milyar dolar ile görece düşük kaldı. BTC, tüm zamanların en yüksek seviyesinin yaklaşık 43.500 dolar altında bulunuyor.",
+          "why": "Düşük hacim ve ATH'dan uzak mesafe, piyasanın makro belirsizlik karşısında temkinli durduğuna işaret ediyor.",
+          "sourceUrl": "https://fortune.com/article/price-of-bitcoin-06-24-2026/",
+          "sourceTitle": "Current price of Bitcoin for June 24, 2026 – Fortune"
+        },
+        {
+          "summary": "Ethereum 1.728 dolar civarında işlem görüyor; analistler boğa senaryosu için 1.800–1.900 dolar bölgesinin yeniden kazanılması gerektiğini vurguluyor.",
+          "why": "ETH'nin kritik direnç bölgesinin altında kalması, altcoin piyasasının genel zayıflığının sürdüğüne işaret ediyor.",
+          "sourceUrl": "https://coindcx.com/blog/price-predictions/ethereum-price-prediction/",
+          "sourceTitle": "Ethereum (ETH) Price Prediction 2026 – CoinDCX"
+        },
+        {
+          "summary": "SEC, 2 Haziran 2026'da yayımladığı 2026–2030 Stratejik Planı'nda dijital varlıkları ve dağıtık defter teknolojisini kurumun öncelikli odak alanı ilan etti. Kripto piyasa yapısı yasa tasarısı ise Kongre'de yavaş ilerlemeye devam ediyor.",
+          "why": "SEC'in resmi stratejik öncelik olarak kripto düzenlemesini benimsemesi, sektör üzerindeki gözetim baskısının artacağını gösteriyor.",
+          "sourceUrl": "https://www.lw.com/en/us-crypto-policy-tracker/regulatory-developments",
+          "sourceTitle": "US Crypto Policy Tracker – Latham & Watkins"
+        },
+        {
+          "summary": "Haziran 2026'da bir DeFi DEX projesi, Index Ventures ve Union Square Ventures öncülüğünde 75 milyon dolarlık Seri B yatırım turu kapattı. Pantera Capital, DCG ve Susquehanna Crypto da dönemin aktif yatırımcıları arasında yer aldı.",
+          "why": "Kurumsal VC fonlarının DeFi altyapısına yatırımı sürdürmesi, kripto winter kaygılarına rağmen sektörün orta vadeli büyüme hikayesinin canlılığını koruduğunu gösteriyor.",
+          "sourceUrl": "https://crypto-fundraising.info/",
+          "sourceTitle": "Crypto Fundraising – Recent Private Fundraising Events"
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "name": "Genel",
+      "status": "error",
+      "items": []
+    }
+  ],
+  "generatedAt": "2026-06-24T17:43:54.498Z",
+  "costUsd": 0.8937
+}
