@@ -1,11 +1,16 @@
 {
-  "lastNumber": 1,
+  "lastNumber": 2,
   "latest": {
-    "reportNumber": 1,
-    "date": "2026-06-24",
-    "title": "AI İşten Çıkarmalar, Faiz Sinyali ve Kripto Durgunluğu: Piyasaları Sarsan Üç Dalga"
+    "reportNumber": 2,
+    "date": "2026-06-25",
+    "title": "Qualcomm-NVIDIA Kapışması, ECB'nin Sürpriz Artışı ve Starmer'ın Düşüşü: 25 Haziran'ın Kırılma Noktaları"
   },
   "reports": [
+    {
+      "reportNumber": 2,
+      "date": "2026-06-25",
+      "title": "Qualcomm-NVIDIA Kapışması, ECB'nin Sürpriz Artışı ve Starmer'ın Düşüşü: 25 Haziran'ın Kırılma Noktaları"
+    },
     {
       "reportNumber": 1,
       "date": "2026-06-24",
