@@ -1,0 +1,121 @@
+{
+  "reportNumber": 2,
+  "date": "2026-06-25",
+  "title": "Qualcomm-NVIDIA Kapışması, ECB'nin Sürpriz Artışı ve Starmer'ın Düşüşü: 25 Haziran'ın Kırılma Noktaları",
+  "topStory": "Qualcomm, yaklaşık 3,92 milyar dolara Modular Inc.'i satın alarak NVIDIA'nın CUDA yazılım kalesine doğrudan meydan okudu; bu hamle, AI donanım savaşını yazılım katmanına taşıyan tarihsel bir dönüşümün işareti sayılıyor. Aynı gün SK Hynix'in 29,4 milyar dolarlık Nasdaq başvurusu ve OpenAI'nin GPT-5.5'i piyasaya sürmesiyle AI ekonomisi tek günde rekor üstüne rekor kırdı. Batı'da ise İngiltere 10 yılda yedinci başbakanını ararken Avrupa'daki ölümcül sıcak hava dalgası ve ABD-İran müzakerelerindeki kırılgan ilerleme küresel belirsizliği derinleştiriyor.",
+  "sections": [
+    {
+      "key": "tech-ai",
+      "name": "Teknoloji & AI",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Qualcomm, NVIDIA'nın CUDA egemenliğine meydan okumak amacıyla AI yazılım girişimi Modular Inc.'i yaklaşık 3,92 milyar dolarlık all-stock işlemle satın aldı. Anlaşma, Qualcomm'un donanım gücüne kritik bir yazılım katmanı ekleyerek AI iş yüklerini farklı donanımlarda kod yeniden yazmadan çalıştırmasını sağlayacak.",
+          "why": "Bu hamle, AI altyapısında yazılım katmanı savaşını derinleştiriyor ve Qualcomm'u NVIDIA'nın veri merkezi hakimiyetine karşı ciddi bir rakip konumuna taşıyor.",
+          "sourceUrl": "https://www.mirrorreview.com/news/qualcomm-modular-acquisition/",
+          "sourceTitle": "Qualcomm Modular Acquisition to Deliver AI Solutions from Edge to Cloud"
+        },
+        {
+          "summary": "Dünyanın en büyük HBM bellek tedarikçisi SK Hynix, Nasdaq'ta 29,4 milyar dolarlık devasa bir halka arz için başvuru yaptı; işlem 10 Temmuz'da gerçekleşebilir. Bu, SpaceX'in ardından tarihin ikinci en büyük halka arzı olma yolunda.",
+          "why": "AI talebinin patlama yaptığı bu dönemde SK Hynix'in dev halka arzı, bellek çip sektörünün yatırımcı gözündeki stratejik önemini net biçimde ortaya koyuyor.",
+          "sourceUrl": "https://siliconangle.com/2026/06/24/memory-maker-sk-hynix-files-29b-us-ipo-amid-ai-demand/",
+          "sourceTitle": "Memory maker SK Hynix files for $29B US IPO amid AI demand – SiliconANGLE"
+        },
+        {
+          "summary": "SAP, Haziran 2026 Güvenlik Yama Günü'nde NetWeaver AS ABAP, SAP Kernel, NetWeaver Java ve Commerce Cloud'u etkileyen dört kritik güvenlik açığını kapattı; CVSS puanları 9,9'a ulaşıyor.",
+          "why": "Milyonlarca kurumsal sistemi etkileyen bu kritik yamalar, özellikle kimlik doğrulama ve RFC katmanlarındaki açıklar nedeniyle hızlı yamalanmazsa büyük güvenlik ihlallerine zemin hazırlayabilir.",
+          "sourceUrl": "https://erp.today/sap-june-2026-patch-day-critical-fixes-netweaver-abap-commerce-cloud/",
+          "sourceTitle": "SAP June Patch Day: Four Critical Fixes for NetWeaver, ABAP and Commerce Cloud | ERP Today"
+        },
+        {
+          "summary": "OpenAI, GPT-5.5 ve GPT-5.5 Pro modellerini API'de tam kullanıma açtı; model GPT-5.4'e kıyasla daha zeki ve belirgin biçimde daha token verimli olarak konumlandırılıyor. GPT-5.5 Instant ise ChatGPT'nin yeni varsayılan modeli oldu.",
+          "why": "Her yeni OpenAI model neslinin piyasaya sürülmesi, kurumsal AI uygulama maliyetlerini ve yeteneklerini doğrudan yeniden şekillendiriyor.",
+          "sourceUrl": "https://openai.com/index/introducing-gpt-5-5/",
+          "sourceTitle": "Introducing GPT-5.5 | OpenAI"
+        },
+        {
+          "summary": "2026'da AI startupları küresel VC'nin %33'ünü çekiyor; yalnızca yılın ilk çeyreğinde OpenAI, Anthropic, xAI ve Waymo toplam 188 milyar dolarlık rekor tur kapattı.",
+          "why": "AI fonlamasının bu denli bir azınlık elinde yoğunlaşması, sektörde 'kazanan hepsini alır' dinamiğini güçlendiriyor ve küçük oyuncular için rekabeti giderek zorlaştırıyor.",
+          "sourceUrl": "https://aifundingtracker.com/top-50-ai-startups/",
+          "sourceTitle": "50 Top AI Funded Startups (June 2026)"
+        }
+      ]
+    },
+    {
+      "key": "finance-crypto",
+      "name": "Finans & Kripto",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Avrupa Merkez Bankası (ECB), Haziran 2026 toplantısında faiz oranlarını 25 baz puan artırdı; bu, 2023'ten bu yana ilk faiz artışı oldu. Karar, yükselen enerji maliyetleri ve %2 enflasyon hedefini koruma kararlılığıyla gerekçelendirildi.",
+          "why": "ECB'nin yeniden sıkılaştırma moduna girmesi, Euro bölgesinde borçlanma maliyetlerini ve küresel risk iştahını doğrudan etkiliyor.",
+          "sourceUrl": "https://tradingeconomics.com/euro-area/interest-rate",
+          "sourceTitle": "Euro Area Interest Rate – Trading Economics"
+        },
+        {
+          "summary": "Fed Başkanı Kevin Warsh'ın ilk FOMC toplantısında faizler 3,50-3,75% bandında sabit tutuldu; Warsh ileriye dönük artış sinyalleri verirken büyük Fed operasyonlarını gözden geçirecek görev güçleri kurulacağını açıkladı.",
+          "why": "Yeni Fed başkanının belirsizliği artıran yaklaşımı piyasalar için önemli bir yön değişikliği sinyali taşıyor.",
+          "sourceUrl": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
+          "sourceTitle": "Fed interest rate decision June 2026: Fed holds rates steady – CNBC"
+        },
+        {
+          "summary": "Bitcoin bugün (25 Haziran 2026) yaklaşık 61.285 dolardan işlem görüyor; 24 saatlik hacim 23,9 milyar dolar. Bu seviye, bir yıl öncesine göre yaklaşık 46.100 dolar aşağıda.",
+          "why": "BTC'nin yıllık bazda ciddi geri çekilmesi, makroekonomik baskıların kripto piyasasına yansıdığını gösteriyor.",
+          "sourceUrl": "https://www.coindesk.com/price/bitcoin",
+          "sourceTitle": "Bitcoin Price Today – CoinDesk"
+        },
+        {
+          "summary": "SEC, 2 Haziran 2026'da yayımladığı 2026-2030 Stratejik Planı taslağında dijital varlıklar ve dağıtık defter teknolojisini ajansın öncelikli alanı olarak belirledi; bu gelişme SEC-CFTC kripto yetki savaşını sonlandırabilecek düzenleyici çerçevenin habercisi.",
+          "why": "SEC'in dijital varlıkları resmi öncelik ilan etmesi, ABD kripto regülasyon ortamını köklü biçimde şekillendirecek.",
+          "sourceUrl": "https://www.lw.com/en/us-crypto-policy-tracker/regulatory-developments",
+          "sourceTitle": "US Crypto Policy Tracker – Latham & Watkins"
+        },
+        {
+          "summary": "Blockchain veri oracle ağı geliştiren Cambrian, Franklin Templeton ve Polychain Capital ortak liderliğinde 6 milyon dolarlık seed round kapattı; toplam finansman 11,9 milyon dolara ulaştı.",
+          "why": "Kurumsal oyuncuların (Franklin Templeton) erken aşama kripto altyapı projelerine yatırım yapması, kurumsal ilginin sürdüğünü kanıtlıyor.",
+          "sourceUrl": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network",
+          "sourceTitle": "Cambrian raises $6M seed round – The Block"
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "name": "Genel",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "ABD Senatosu, Trump'ın İran'a yönelik askeri operasyonunu durdurmaya yönelik savaş yetkileri kararını onayladı. Her iki kongre kanadının da bu tür bir karar aldığı tarihte ilk kez yaşandı; ancak Trump'ın veto hakkı nedeniyle kararın sembolik kaldığı belirtiliyor.",
+          "why": "ABD-İran çatışmasında kongrenin yürütmeyi denetleme yetkisini fiilen kullanması, anayasal güç dengesi ve savaşın geleceği açısından kritik bir dönüm noktasıdır.",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump",
+          "sourceTitle": "US Senate approves Iran war powers resolution – Al Jazeera"
+        },
+        {
+          "summary": "İngiltere Başbakanı Keir Starmer, parlamentodaki işçi milletvekillerinin çoğunluğunun güvenini yitirmesinin ardından 22 Haziran'da istifasını açıkladı. Bu gelişmeyle İngiltere, 10 yıl içinde yedinci başbakanını arayışına girdi.",
+          "why": "İngiltere'de siyasi istikrarsızlığın derinleşmesi, ülkenin hem iç ekonomik krizleri hem de uluslararası jeopolitik konumunu doğrudan etkiliyor.",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over",
+          "sourceTitle": "Why has Keir Starmer resigned as UK prime minister? – Al Jazeera"
+        },
+        {
+          "summary": "Batı Avrupa'yı saran tarihi sıcak hava dalgası can almaya devam ediyor; Fransa'da havayla bağlantılı 50 ölüm rapor edilirken Fransa ve İngiltere'de Haziran rekorlarının kırılması bekleniyor.",
+          "why": "İklim krizinin artık doğrudan insan hayatını tehdit eden boyutlara ulaşması, acil politika önlemleri gerektirdiğini bir kez daha gözler önüne seriyor.",
+          "sourceUrl": "https://www.timesofisrael.com/france-reports-50-weather-related-deaths-as-record-heat-wave-sweeps-western-europe/",
+          "sourceTitle": "France reports 50 weather-related deaths as record heat wave – Times of Israel"
+        },
+        {
+          "summary": "ABD ile İran arasında kapsamlı bir ateşkes ve barış anlaşmasına yönelik müzakereler ilerleme kaydediyor; ancak İran'ın tazminat ve dondurulmuş varlıkların iadesi talepleri masadaki en büyük engel olmayı sürdürüyor.",
+          "why": "Olası bir ABD-İran anlaşması, Ortadoğu'da uzun vadeli jeopolitik dengeyi ve küresel enerji fiyatlarını doğrudan şekillendirecek.",
+          "sourceUrl": "https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire",
+          "sourceTitle": "2026 Iran war ceasefire – Wikipedia"
+        },
+        {
+          "summary": "2026 FIFA Dünya Kupası'nda ABD'nin kısıtlayıcı göçmen politikaları tartışmalara yol açtı; Senegal ve Özbekistan takımları varışta sert güvenlik kontrollerine tabi tutulurken pek çok taraftar ve medya akreditasyonu sorunlarla karşılaştı.",
+          "why": "Dünya'nın en büyük spor organizasyonunun siyasi krizle iç içe geçmesi, ABD'nin uluslararası imajını ve Dünya Kupası'nın kapsayıcılık ilkesini zedeliyor.",
+          "sourceUrl": "https://en.wikipedia.org/wiki/List_of_2026_FIFA_World_Cup_controversies",
+          "sourceTitle": "List of 2026 FIFA World Cup controversies – Wikipedia"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-06-25T17:04:49.662Z",
+  "costUsd": 0.7917
+}
