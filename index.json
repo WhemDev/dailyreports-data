@@ -1,15 +1,5 @@
 {
-  "lastNumber": 2,
-  "latest": {
-      "reportNumber": 1,
-      "date": "2026-06-24",
-      "title": "AI İşten Çıkarmalar, Faiz Sinyali ve Kripto Durgunluğu: Piyasaları Sarsan Üç Dalga"
-    },
-  "reports": [
-    {
-      "reportNumber": 1,
-      "date": "2026-06-24",
-      "title": "AI İşten Çıkarmalar, Faiz Sinyali ve Kripto Durgunluğu: Piyasaları Sarsan Üç Dalga"
-    }
-  ]
+  "lastNumber": 0,
+  "latest": null,
+  "reports": []
 }
