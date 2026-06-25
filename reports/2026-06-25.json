@@ -1,8 +1,8 @@
 {
-  "reportNumber": 3,
+  "reportNumber": 1,
   "date": "2026-06-25",
-  "title": "AI Yarışı Kızışırken Kripto Geriliyor: Teknoloji Devlerinin 725 Milyar Dolarlık Bahsi",
-  "topStory": "Haziran 2026, yapay zeka dünyasında tam bir yoğunlaşma ayı oldu: Google, Anthropic ve xAI aynı ay içinde rakip modeller piyasaya sürerken teknoloji devlerinin bu alana yönelik sermaye harcamaları 725 milyar dolara ulaşarak 2025'e göre yüzde 77 arttı. Öte yandan kripto piyasaları baskı altında kaldı; Bitcoin ve Ethereum günlük yaklaşık yüzde 2,5 değer kaybederken CLARITY Yasası'nın yasamada takılması ve sermayenin AI hisselerine kayması düşüşün başlıca nedenleri oldu. ECB'nin 2023'ten bu yana ilk kez faiz artırması ise İran geriliminin körüklediği enerji enflasyonunun küresel merkez bankalarını yeniden sıkılaştırma yoluna ittiğini gözler önüne serdi.",
+  "title": "2026-06-25 Günlük Bülten",
+  "topStory": "",
   "sections": [
     {
       "key": "tech-ai",
@@ -10,34 +10,34 @@
       "status": "ok",
       "items": [
         {
-          "summary": "SAP, Haziran 2026 Güvenlik Yama Günü'nde NetWeaver AS ABAP, SAP Kernel, NetWeaver Java ve Commerce Cloud'u etkileyen dört kritik açığı kapatan yamalar yayımladı. En tehlikeli açık CVE-2026-44748, CVSS skoru 9.9 ile SAML kimlik doğrulamasını hedef alıyor.",
-          "why": "Kurumsal ERP sistemlerini hedef alan bu kritik açıklar, dünya genelindeki SAP altyapılarında kimlik doğrulama ve veri güvenliğini tehdit ettiğinden acil yama uygulaması hayati önem taşıyor.",
+          "summary": "Qualcomm, yapay zeka yazılım altyapısı girişimi Modular Inc'i yaklaşık 3,92 milyar dolarlık hisse senedi işlemiyle satın almayı duyurdu. Modular'ın MAX motoru ve MOJO programlama dili, Qualcomm'a Nvidia'nın CUDA platformuna rakip olabilecek, farklı donanım mimarileri üzerinde sorunsuz çalışan bir yazılım yığını kazandırıyor.",
+          "why": "Bu satın alma, Qualcomm'un veri merkezi ve uç yapay zeka hesaplama pazarındaki konumunu doğrudan güçlendiriyor ve Nvidia'nın yazılım hakimiyetine ciddi bir meydan okuma oluşturuyor.",
+          "sourceUrl": "https://www.hpcwire.com/aiwire/2026/06/25/qualcomm-strengthens-data-center-ai-push-with-modular-acquisition/",
+          "sourceTitle": "Qualcomm Strengthens Data Center AI Push with Modular Acquisition – HPCwire AIwire"
+        },
+        {
+          "summary": "SAP, Haziran 2026 Güvenlik Yaması Günü kapsamında CVSS skoru 9.9'a ulaşan dört kritik güvenlik açığını kapattı. Etkilenen ürünler arasında NetWeaver AS ABAP, ABAP Platform, NetWeaver Java AS, SAP Commerce Cloud ve SAP Data Hub bulunuyor; toplam 15 yeni güvenlik notu yayımlandı.",
+          "why": "CVSS 9.9 seviyesindeki açık, kimlik doğrulama mekanizmasını manipüle ederek kurumsal sistemlerde tam ele geçirme riski taşıdığından SAP müşterilerinin yamaları acilen uygulaması kritik önem taşıyor.",
           "sourceUrl": "https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/",
           "sourceTitle": "SAP Patches Critical NetWeaver, Commerce Vulnerabilities – SecurityWeek"
         },
         {
-          "summary": "Haziran 2026'da AI model yarışı yoğunlaştı: Google'dan Gemini 3.5 Pro, Anthropic'ten Claude Mythos 1, xAI'dan Grok 5 ve yeni bir Sonnet varyantı aynı ay içinde piyasaya sürüldü. AI Flash Report'a göre yeni modeller yaklaşık her 2 günde bir çıkıyor.",
-          "why": "Dört büyük AI sağlayıcısının eş zamanlı model çıkışı, kurumsal yazılım geliştiricileri için model seçim kararlarını karmaşıklaştırıyor ve rekabeti tarihin en yüksek seviyesine taşıyor.",
+          "summary": "Oracle, geçtiğimiz yıl içinde 21.000 çalışanını (toplam iş gücünün yaklaşık %13'ü) işten çıkardığını yıllık düzenleyici dosyasında açıkladı ve bu kararı doğrudan yapay zeka teknolojilerinin benimsenmesine bağladı. Şirket aynı dönemde sermaye harcamalarını %162 artırarak 55,7 milyar dolara çıkardı ve AI altyapısına yatırım yapmaya devam etti.",
+          "why": "Oracle'ın bu hamlesi, Meta, Microsoft, Google ve Amazon'dan sonra büyük teknoloji şirketlerinin AI dönüşümünü işgücü maliyetlerini doğrudan azaltmak için kullandığını gösteren önemli bir kurumsal emsal oluşturuyor.",
+          "sourceUrl": "https://techstartups.com/2026/06/23/top-tech-news-today-june-23-2026/",
+          "sourceTitle": "Top Tech News Today, June 23, 2026 – Tech Startups"
+        },
+        {
+          "summary": "Haziran 2026, büyük AI laboratuvarlarının neredeyse eş zamanlı model çıkışlarına sahne oluyor: Google'ın Gemini 3.5 Pro'su, Anthropic'in Claude Mythos 1'i ve xAI'nin uzun beklenen Grok 5'i aynı ay içinde kullanıcılarla buluştu; OpenAI ise tek GPU'da çalışabilen gpt-oss-120b ile hafif 20b açık kaynak modellerini piyasaya sürdü.",
+          "why": "Bu yoğun model yarışı, uygulama geliştiricileri için platform seçimini kritik bir stratejik karar haline getiriyor ve kurumsal AI benimsemesini doğrudan etkiliyor.",
           "sourceUrl": "https://wavespeed.ai/blog/posts/june-2026-ai-launch-wave/",
           "sourceTitle": "June 2026 AI Launch Wave: A Builder's Decision Map – WaveSpeed Blog"
         },
         {
-          "summary": "Meta, Çin'in Ulusal Kalkınma ve Reform Komisyonu'nun engeli üzerine 2 milyar dolarlık Manus AI girişimi satın alımını söküyor; iki şirket arasındaki operasyonel ayrılık tamamlanarak veri paylaşımı durduruldu.",
-          "why": "Bu gelişme, ABD-Çin arasındaki yapay zeka jeopolitiğinin doğrudan büyük teknoloji şirketlerinin M&A stratejilerini nasıl engellediğini gözler önüne seriyor.",
-          "sourceUrl": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-          "sourceTitle": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand – TechCrunch"
-        },
-        {
-          "summary": "2026 yılında AI girişimleri toplam risk sermayesinin yüzde 33'ünü çekiyor; erken aşama yatırımlarda değerlemeler rekor seviyelere ulaşırken, üretici yapay zeka araçları ve kurumsal makine öğrenmesi en fazla fon alan sektörler arasında yer alıyor.",
-          "why": "AI'a yönelik sermaye akışının bu denli yoğunlaşması, kurumsal yazılım ekosisteminde geleneksel ERP oyuncularını yeni AI-native rakiplere karşı savunmaya geçiriyor.",
-          "sourceUrl": "https://qubit.capital/blog/ai-startup-fundraising-trends",
-          "sourceTitle": "AI Startup Funding Trends 2026: Data, Rounds & What's Next – Qubit Capital"
-        },
-        {
-          "summary": "Google, Amazon, Microsoft ve Meta'nın 2026 için toplam sermaye harcaması tahmini 725 milyar dolara ulaşıyor; bu rakam 2025'e göre yüzde 77 artışa işaret ediyor. Harcamalar veri merkezleri, hesaplama altyapısı ve güç kaynaklarına yoğunlaşıyor.",
-          "why": "Bu benzeri görülmemiş yatırım dalgası, kurumsal AI altyapısında yeni bir dönemi başlatırken ERP ve kurumsal yazılım entegrasyon baskısını da hızlandırıyor.",
-          "sourceUrl": "https://finance.yahoo.com/sectors/technology/article/meta-microsoft-amazon-and-alphabet-are-about-to-spend-a-shocking-amount-of-money-to-dominate-the-ai-era-115359575.html",
-          "sourceTitle": "Meta, Microsoft, Amazon, and Alphabet AI Capex 2026 – Yahoo Finance"
+          "summary": "2026'nın ilk çeyreğinde küresel girişim finansmanı 300 milyar doları aşarak rekor kırdı; OpenAI (122 milyar dolar), Anthropic (30 milyar dolar) ve xAI (20 milyar dolar) dahil olmak üzere tarihin en büyük beş yatırım turundan dördü bu çeyrekte kapandı. Tüm yıl için AI girişimleri toplam VC finansmanının %33'ünü çekiyor.",
+          "why": "AI'ya akan bu tarihi sermaye yoğunlaşması, sektörün kurumsal yazılım ve ERP gibi geleneksel alanlardaki rekabetçi baskıyı hızla artırdığını ve yeni pazar oyuncularının ortaya çıkışını finanse ettiğini gösteriyor.",
+          "sourceUrl": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+          "sourceTitle": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B – Crunchbase News"
         }
       ]
     },
@@ -47,34 +47,34 @@
       "status": "ok",
       "items": [
         {
-          "summary": "Bitcoin bugün 59.299 dolar, Ethereum ise 1.562 dolar seviyesine geriledi; her iki varlık da günlük yaklaşık %2,5 değer kaybetti. ETF çıkışları, CLARITY Yasası'nın gecikmesi ve sermayenin yapay zeka hisselerine göç etmesi düşüşün temel nedenleri olarak öne çıkıyor.",
-          "why": "Kripto yıllardır görülmemiş baskı seviyelerinde; makro ve regülasyon kaynaklı çift taraflı satış baskısı piyasa psikolojisini derinden etkiliyor.",
+          "summary": "Fed, 17 Haziran toplantısında faiz oranını %3,50–%3,75 bandında sabit tuttu. Yeni Başkan Kevin Warsh'ın ilk toplantısında önceki yönlendirmeler kaldırıldı ve enerji fiyatlarındaki yükseliş, piyasaların 2026 yılı için beklediği faiz indirimlerini fiyatlamaktan vazgeçmesine yol açtı.",
+          "why": "Fed'in 'sabırlı ama enflasyon odaklı' duruşu, 2026 için beklenen faiz indirimlerini riske atarak küresel piyasalar ve kripto varlıklar üzerinde baskı yaratmaya devam ediyor.",
+          "sourceUrl": "https://www.usbank.com/investing/financial-perspectives/market-news/federal-reserve-tapering-asset-purchases.html",
+          "sourceTitle": "Federal Reserve Monetary Policy | U.S. Bank"
+        },
+        {
+          "summary": "Bitcoin bugün (25 Haziran 2026) 60.983 dolar açılışının ardından öğleden sonra 59.334 dolara geriledi; Ethereum ise 1.619 dolardan 1.561 dolara indi. Her iki kripto para da yaklaşık iki yılın en düşük seviyelerinde seyrediyor.",
+          "why": "ETF çıkışları, CLARITY Act'taki gecikme belirsizliği ve yatırımların yapay zeka hisselerine kayması, kripto piyasalarında uzun süreli bir ayı dönemini besliyor.",
           "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-hits-its-lowest-levels-in-years-125308371.html",
-          "sourceTitle": "Bitcoin and Ethereum Prices Today, Thursday, June 25, 2026 – Yahoo Finance"
+          "sourceTitle": "Bitcoin and ethereum prices today, Thursday, June 25, 2026 | Yahoo Finance"
         },
         {
-          "summary": "Avrupa Merkez Bankası, İran gerilimi ve Hürmüz Boğazı'ndaki petrol krizinden kaynaklanan enerji enflasyonuna karşı Haziran 2026'da 25 baz puan faiz artırarak mevduat faizini %2,25'e yükseltti. Bu, 2023'ten bu yana ilk ECB faiz artışı.",
-          "why": "ECB'nin sıkılaşma döngüsüne dönmesi küresel risk iştahını baskılıyor ve kripto dahil tüm riskli varlıkları doğrudan etkiliyor.",
-          "sourceUrl": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html",
-          "sourceTitle": "Monetary Policy Decisions – European Central Bank, June 2026"
+          "summary": "ABD Senatosu'ndaki CLARITY Act müzakereleri kritik bir eşiğe geldi; Polymarket'ta tasarının 2026'da yasalaşma ihtimali bir ay önceki %74'ten %48'e geriledi. Stifel analistleri, tasarının Ağustos tatilinden önce Senato'dan geçememesi halinde şansının belirgin biçimde azalacağını belirtiyor.",
+          "why": "Kripto'nun yapısal düzenleyici çerçevesi on yıllık bir belirsizliği sonlandırabilecek; yasanın gecikmesi kurumsal sermayenin sektöre girişini fiilen durduruyor.",
+          "sourceUrl": "https://finance.yahoo.com/markets/crypto/articles/senates-last-ditch-clarity-act-145216524.html",
+          "sourceTitle": "Senate's Last-Ditch CLARITY Act Talks Could Decide Crypto's Fate | Yahoo Finance"
         },
         {
-          "summary": "SEC, kripto varlıklara federal menkul kıymet yasalarının nasıl uygulanacağına dair kapsamlı bir yorum yayımladı ve 2026-2030 Stratejik Planı'nda dijital varlıkları birincil öncelik olarak belirledi.",
-          "why": "Yıllardır süren düzenleyici belirsizliğin sona ermesi kurumsal kripto yatırımlarını ve ürün geliştirmeyi hızlandırabilir.",
+          "summary": "SEC, Mart 2026'da yayımladığı yorumla kripto varlıkların büyük çoğunluğunun menkul kıymet olmadığını netleştirdi. Bu karar, on yıl süren düzenleyici belirsizliğe son veriyor ve Kongre'deki piyasa yapısı mevzuatıyla koordineli biçimde yürürlüğe giriyor.",
+          "why": "CFTC ile ortak yayımlanan bu yorum, SEC'in hangi kripto varlıklarını menkul kıymet saydığını açıkça ortaya koyarak girişimciler ve kurumsal yatırımcılar için somut bir hukuki zemin oluşturuyor.",
           "sourceUrl": "https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets",
-          "sourceTitle": "SEC Clarifies the Application of Federal Securities Laws to Crypto Assets – SEC.gov"
+          "sourceTitle": "SEC Clarifies the Application of Federal Securities Laws to Crypto Assets | SEC.gov"
         },
         {
-          "summary": "Haziran 2026'da kripto VC yatırımları altyapı ve DeFi odaklı devam etti: bir DEX'e 75 milyon dolar Seri B, bir veri servisine 40 milyon dolar Seri B ve ONYX'e 20 milyon dolar Seri A dahil büyük turlar kapandı.",
-          "why": "Piyasa düşüşüne karşın VC'lerin altyapı ve kurumsal DeFi'ye yatırım yapmayı sürdürmesi, uzun vadeli yapısal güven sinyali veriyor.",
-          "sourceUrl": "https://crypto-fundraising.info/",
-          "sourceTitle": "Crypto Fundraising – Recent Private Fundraising Events"
-        },
-        {
-          "summary": "ABD'de kripto piyasa yapısını düzenleyecek CLARITY Yasası, SEC-CFTC yetki çatışmasını çözmeye yönelik olmasına rağmen yasama sürecinde yavaşladı; bu durum bugünkü BTC ve ETH satışlarının tetikleyicilerinden biri oldu.",
-          "why": "Yasal çerçevenin netleşmemesi kurumsal yatırımcıları temkinli tutuyor ve kripto piyasasındaki oynaklığı kronik hale getiriyor.",
-          "sourceUrl": "https://www.dlnews.com/articles/regulation/key-dates-for-us-crypto-regulation-in-2026/",
-          "sourceTitle": "Key Dates for US Crypto Regulation in 2026 – DL News"
+          "summary": "Blokzincir veri oracle girişimi Cambrian, Franklin Templeton ve Polychain Capital ortak liderliğinde 6 milyon dolarlık bir seed turu kapattı. Böylece şirketin toplam finansmanı 11,9 milyon dolara ulaştı; proje kurumlar ve yapay zeka ajansları için doğrulanabilir onchain veri ağı kurmayı hedefliyor.",
+          "why": "Franklin Templeton gibi kurumsal bir varlık yöneticisinin erken aşama kripto altyapısına ortak lider olması, kurumsal sermayenin sektöre ilgisinin devam ettiğini ve AI-kripto kesişiminin VC için öncelikli bir tema haline geldiğini gösteriyor.",
+          "sourceUrl": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network",
+          "sourceTitle": "a16z CSX-backed Cambrian raises $6 million seed | The Block"
         }
       ]
     },
@@ -85,6 +85,6 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-06-25T17:52:54.512Z",
-  "costUsd": 0.7748
+  "generatedAt": "2026-06-25T17:53:17.072Z",
+  "costUsd": 0.9371
 }
