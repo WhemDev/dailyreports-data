@@ -1,0 +1,121 @@
+{
+  "reportNumber": 1,
+  "date": "2026-06-25",
+  "title": "2026-06-25 Günlük Bülten",
+  "topStory": "",
+  "sections": [
+    {
+      "key": "tech-ai",
+      "name": "Teknoloji & AI",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "SAP'ın Haziran 2026 Güvenlik Yaması Günü, NetWeaver AS ABAP, SAP Kernel, NetWeaver Java ve Commerce Cloud bileşenlerinde CVSS puanı 9,9'a ulaşan dört kritik güvenlik açığını kapattı. Söz konusu açıklar kimlik doğrulama, RFC iletişimi ve Java oturum açma katmanlarını etkiliyor.",
+          "why": "CVSS 9,9 seviyesindeki açıklar, dünya genelindeki SAP kurumsal sistemlerini acil yama uygulamak zorunda bırakıyor; yamasız sistemler tam sistem ele geçirme riskiyle karşı karşıya.",
+          "sourceUrl": "https://erp.today/sap-june-2026-patch-day-critical-fixes-netweaver-abap-commerce-cloud/",
+          "sourceTitle": "SAP June Patch Day: Four Critical Fixes for NetWeaver, ABAP and Commerce Cloud | ERP Today"
+        },
+        {
+          "summary": "SAP, Joule Studio üzerinden geliştirilen partner ajanlarını desteklemek için yeni SAP Business AI Platformu'nu hayata geçirdi ve RISE with SAP ile SAP GROW tekliflerini AI entegrasyonunu hızlandıracak şekilde güncelledi. Bu hamle SAP'ın 'Özerk Kurumsal' vizyonunun somut ürüne dönüşmesi anlamına geliyor.",
+          "why": "SAP'ın ERP ekosistemini AI-native bir platforma taşıması, kurumsal yazılım pazarındaki rekabet dinamiklerini köklü biçimde değiştirebilir.",
+          "sourceUrl": "https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/",
+          "sourceTitle": "SAP Unveils the Autonomous Enterprise | SAP Sapphire | SAP News Center"
+        },
+        {
+          "summary": "2026 yılı başından bu yana AI startupları Crunchbase verilerine göre 33 milyar dolar üzerinde fon topladı; bu rakam 2025'in tüm yıl toplamını şimdiden geçti. OpenAI ($122 milyar), Anthropic ($30 milyar) ve xAI ($20 milyar) mega-turları fonlamanın büyük bölümünü absorbe etti.",
+          "why": "AI startup fonlamasının 2025 tamamını yılın yarısında geçmesi, kurumsal yapay zeka yatırımlarının hâlâ zirvede olduğunu ve konsolidasyonun henüz gerçekleşmediğini gösteriyor.",
+          "sourceUrl": "https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/",
+          "sourceTitle": "The AI Startup Funding Boom Is Not A Global Phenomenon | Crunchbase News"
+        },
+        {
+          "summary": "Google'ın ana şirketi Alphabet, Dow Jones Sanayi Endeksi'ne eklenerek Verizon'ın yerini aldı. Bu, büyük teknoloji şirketlerinin geleneksel sektörlerin önüne geçtiğinin sembolik bir ilanı.",
+          "why": "Alphabet'in Dow'a girmesi, endeksin yapısını teknoloji ve AI ağırlıklı hale getirerek kurumsal yatırımcıların portföy ağırlıklarını yeniden düzenlemesini zorunlu kılıyor.",
+          "sourceUrl": "https://www.cnbc.com/technology/",
+          "sourceTitle": "CNBC Technology"
+        },
+        {
+          "summary": "Güney Kore'nin en büyük çip üreticisi SK Hynix, 29 milyar dolarlık Nasdaq çift listesi planlarını duyurdu. Bu, Asya'dan ABD piyasalarına yönelen en büyük teknoloji sermaye hareketlerinden biri olacak.",
+          "why": "HBM (Yüksek Bant Genişlikli Bellek) pazarının lideri SK Hynix'in bu hamlesi, küresel AI donanım tedarik zincirindeki likidite ve yatırımcı ilgisini daha da artıracak.",
+          "sourceUrl": "https://www.cnbc.com/technology/",
+          "sourceTitle": "CNBC Technology"
+        }
+      ]
+    },
+    {
+      "key": "finance-crypto",
+      "name": "Finans & Kripto",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Fed Başkanı Kevin Warsh'ın ilk FOMC toplantısında faiz %3,50–%3,75 aralığında sabit tutuldu; ancak gelecekteki faiz indirimlerine dair ifadeler politika metninden çıkarıldı ve olası artışlara kapı aralandı. Bu, Warsh döneminde daha şahin bir para politikasına geçiş sinyali olarak yorumlanıyor.",
+          "why": "Yeni Fed liderliğinin ilk mesajı, küresel risk iştahını ve kripto başta olmak üzere tüm varlık sınıflarını doğrudan etkileyen faiz beklentilerini yeniden şekillendiriyor.",
+          "sourceUrl": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
+          "sourceTitle": "Fed interest rate decision June 2026: Fed holds rates steady – CNBC"
+        },
+        {
+          "summary": "Bitcoin, 25 Haziran 2026 itibarıyla yaklaşık 61.285 dolar seviyesinde işlem görüyor; 24 saatlik işlem hacmi 23,68 milyar dolar. Fiyat bir önceki güne göre ~1.377 dolar geriledi ve bir yıl öncesine kıyasla yaklaşık 46.100 dolar aşağıda seyrediyor.",
+          "why": "BTC'nin yıllık bazda dramatik gerilemesi ve Fed'in şahin duruşuyla örtüşen fiyat baskısı, makro-kripto korelasyonunu gözler önüne seriyor.",
+          "sourceUrl": "https://www.coindesk.com/price/bitcoin",
+          "sourceTitle": "Bitcoin Price Today – CoinDesk"
+        },
+        {
+          "summary": "Ethereum fiyatı 25 Haziran 2026 itibarıyla 1.615,23 dolar seviyesinde, piyasa değeri yaklaşık 194,9 milyar dolar. Yıl ortası tahminlerinin (ortalama ~1.700 $) altında kalan fiyat, yatırımcılar arasında beklenti boşluğu yarattı.",
+          "why": "ETH'nin tahminlerin gerisinde kalması, piyasadaki risk-off ortamını ve kurumsal talebin zayıflığını yansıtıyor.",
+          "sourceUrl": "https://metamask.io/price/ethereum",
+          "sourceTitle": "Ethereum Price Today – MetaMask"
+        },
+        {
+          "summary": "SEC, 2 Haziran 2026'da yayımladığı 2026–2030 taslak stratejik planında dijital varlıklar ve dağıtık defter teknolojisini kurumun birincil odak alanı olarak ilan etti. Bu hamle, SEC ile CFTC arasındaki yetki alanı tartışmasını yeniden alevlendiriyor.",
+          "why": "SEC'in dijital varlıkları stratejik öncelik yapması, ABD'deki kripto regülasyonunun şeklini ve hızını belirleyecek kritik bir sinyal niteliği taşıyor.",
+          "sourceUrl": "https://www.lw.com/en/us-crypto-policy-tracker/regulatory-developments",
+          "sourceTitle": "US Crypto Policy Tracker – Latham & Watkins"
+        },
+        {
+          "summary": "Blockchain veri oracle ağı Cambrian, Franklin Templeton ve Polychain Capital ortak liderliğinde 6 milyon dolarlık seed turunu kapattı; toplam finansmanı 11,9 milyon dolara ulaştı. Şirket, kurumlar ve yapay zeka ajanlarına getiri verisi sağlayan bir API sunuyor.",
+          "why": "Franklin Templeton gibi geleneksel finans kurumlarının erken aşama kripto altyapısına yatırım yapması, kurumsal entegrasyonun hız kazandığını gösteriyor.",
+          "sourceUrl": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network",
+          "sourceTitle": "Cambrian raises $6M seed – The Block"
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "name": "Genel",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "ABD ile İran, aylarca süren çatışmanın ardından ateşkesi uzatan ve nükleer müzakerelerin çerçevesini çizen 14 maddelik bir ön mutabakat (MOU) imzaladı. Anlaşmayla Hürmüz Boğazı 60 gün boyunca serbest geçişe açılıyor ve ABD deniz ablukası kaldırıldı.",
+          "why": "Küresel petrol arzının yaklaşık yüzde yirmisinin geçtiği Hürmüz Boğazı'nın yeniden açılması ve kalıcı nükleer müzakere sürecinin başlaması, Orta Doğu'daki dengeleri ve enerji piyasalarını doğrudan etkiliyor.",
+          "sourceUrl": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
+          "sourceTitle": "U.S. and Iran announce an initial deal to end the war and reopen the Strait of Hormuz | NPR"
+        },
+        {
+          "summary": "Ukrayna ordusu, Kuzey Kırım Kanalı üzerindeki kritik demiryolu köprüsünü insansız hava araçlarıyla imha etti; Sivastopol'da elektrik kesintileri yaşandı. Ukrayna istihbaratı Kırım'ı artık 'sürekli kayıplar bölgesi' ilan ediyor.",
+          "why": "Ukrayna'nın ikmal hatlarını hedef alan bu saldırılar, Rusya'nın Kırım'daki lojistik kapasitesini zayıflatarak savaşın seyrini değiştirme potansiyeli taşıyor.",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/6/24/ukraine-attacks-on-russian-occupied-crimea-trigger-power-cuts-in-sevastopol",
+          "sourceTitle": "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol | Al Jazeera"
+        },
+        {
+          "summary": "ABD Yüksek Mahkemesi, 6-3 oyla Trump yönetiminin sınırda günlük sığınmacı başvuru kotası uygulamasına yasal zemin tanıdı; aynı gün Haitian ve Suriyeli TPS sahiplerine yargı yolunu kapatan ikinci bir karar daha çıktı.",
+          "why": "Bu iki emsal karar, milyonlarca göçmeni doğrudan etkilerken ABD'nin göç politikasını köklü biçimde dönüştürüyor.",
+          "sourceUrl": "https://www.pbs.org/newshour/politics/supreme-court-clears-way-for-trump-administration-to-revive-restrictive-immigration-policy",
+          "sourceTitle": "Supreme Court clears way for Trump administration to revive restrictive immigration policy | PBS News"
+        },
+        {
+          "summary": "ABD Senatosu'nda Cumhuriyetçiler, Demokratların Trump'ın İran'daki savaş yetkilerini kısıtlama girişimini reddetti; ancak toplantı, konut paketi ve İran politikası konularında Trump ile senatörler arasındaki gerginliğin su yüzüne çıkmasıyla çalkantılı geçti.",
+          "why": "Yürütmenin savaş yetkilerinin korunması, devam eden ABD-İran müzakerelerine doğrudan etki ediyor ve kongre ile Beyaz Saray arasındaki güç dengesini test ediyor.",
+          "sourceUrl": "https://www.foxnews.com/politics/closed-door-outburst-turns-victory-trumps-iran-negotiations",
+          "sourceTitle": "Closed-door outburst turns into victory for Trump's Iran negotiations | Fox News"
+        },
+        {
+          "summary": "Trump'ın 2026 tarife politikası, Amerikan hanehalkı başına ortalama 1.500 dolarlık ek vergi yüküne denk geliyor ve 1993'ten bu yana en büyük GSYİH bazlı vergi artışı olarak kayıtlara geçiyor. Çin ile yüzde 30 tabanı koruyan 60 günlük duraklatma anlaşması yapıldı.",
+          "why": "Küresel tedarik zincirlerini derinden etkileyen bu tarife politikası, enflasyon ve resesyon risklerini artırarak dünya ekonomisini yeniden şekillendiriyor.",
+          "sourceUrl": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
+          "sourceTitle": "Tariff Tracker: 2026 Trump Tariffs & Trade War by the Numbers | Tax Foundation"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-06-25T18:52:32.524Z",
+  "costUsd": 1.5066
+}
