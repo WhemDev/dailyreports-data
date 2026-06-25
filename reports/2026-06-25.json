@@ -1,8 +1,8 @@
 {
   "reportNumber": 3,
   "date": "2026-06-25",
-  "title": "Jalapeño Çipiyle Başlayan Yapay Zeka Atılımı, Kripto Piyasasını Çöküşe Sürüklüyor",
-  "topStory": "OpenAI ve Broadcom'un ortaklaşa geliştirdiği 'Jalapeño' LLM çıkarım işlemcisi, yapay zeka altyapısında yeni bir dönemin kapılarını aralıyor; gigavat ölçekli veri merkezlerine konuşlandırılacak bu çip, sektörün donanım bağımlılığını köklü biçimde dönüştürebilir. Öte yandan yapay zeka hisselerine akan sermaye kripto piyasasını derinden vurdu: Bitcoin %2,7 düşerek 59.334 dolara, Ethereum ise 600 milyon dolarlık zorla tasfiye ve ETF çıkışlarıyla 1.561 dolara geriledi. Google'dan Anthropic'e geçen kilit araştırmacılar ise büyük teknoloji şirketleri arasındaki yetenek savaşının giderek kızıştığını gözler önüne seriyor.",
+  "title": "AI Yarışı Kızışırken Kripto Geriliyor: Teknoloji Devlerinin 725 Milyar Dolarlık Bahsi",
+  "topStory": "Haziran 2026, yapay zeka dünyasında tam bir yoğunlaşma ayı oldu: Google, Anthropic ve xAI aynı ay içinde rakip modeller piyasaya sürerken teknoloji devlerinin bu alana yönelik sermaye harcamaları 725 milyar dolara ulaşarak 2025'e göre yüzde 77 arttı. Öte yandan kripto piyasaları baskı altında kaldı; Bitcoin ve Ethereum günlük yaklaşık yüzde 2,5 değer kaybederken CLARITY Yasası'nın yasamada takılması ve sermayenin AI hisselerine kayması düşüşün başlıca nedenleri oldu. ECB'nin 2023'ten bu yana ilk kez faiz artırması ise İran geriliminin körüklediği enerji enflasyonunun küresel merkez bankalarını yeniden sıkılaştırma yoluna ittiğini gözler önüne serdi.",
   "sections": [
     {
       "key": "tech-ai",
@@ -10,28 +10,34 @@
       "status": "ok",
       "items": [
         {
-          "summary": "OpenAI ve Broadcom, 25 Haziran 2026'da 'Jalapeño' adlı ilk özel LLM çıkarım (inference) işlemcisini tanıttı. Dokuz aylık tasarım süreciyle geliştirilen çip, 2026 sonu itibarıyla gigavat ölçekli veri merkezlerinde konuşlandırılacak.",
-          "why": "OpenAI'ın kendi donanımını geliştirmesi, Nvidia bağımlılığını azaltma ve tam yığın (full-stack) altyapı stratejisini hayata geçirme yolunda kritik bir adım.",
-          "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
-          "sourceTitle": "OpenAI and Broadcom unveil LLM-optimized inference chip | OpenAI"
-        },
-        {
-          "summary": "Google'ın Gemini modelinin kilit araştırmacıları Jonas Adler ve Alexander Pritzel, rakip yapay zeka şirketi Anthropic'e geçiyor. Bu, Noam Shazeer ve John Jumper'ın ardından yaşanan son büyük isim kayıplarından biri.",
-          "why": "Google'dan Anthropic'e süregelen yetenek göçü, büyük dil modelleri rekabetindeki güç dengesini ciddi biçimde etkileyebilir.",
-          "sourceUrl": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-          "sourceTitle": "AI researchers continue to leave Google for its rivals | TechCrunch"
-        },
-        {
-          "summary": "SAP, Haziran 2026 Yama Günü'nde CVSS puanı 9.9'a ulaşan açıklar dahil NetWeaver ABAP, NetWeaver Java, Commerce Cloud ve Data Hub'ı etkileyen dört kritik güvenlik yamayı yayımladı. Toplamda 15 yeni güvenlik notu duyuruldu.",
-          "why": "Kurumsal ERP sistemlerindeki bu kritik açıklar, dünya genelindeki SAP müşterilerini kimlik doğrulama bypass ve bellek bozulması saldırılarına karşı savunmasız bırakıyor.",
+          "summary": "SAP, Haziran 2026 Güvenlik Yama Günü'nde NetWeaver AS ABAP, SAP Kernel, NetWeaver Java ve Commerce Cloud'u etkileyen dört kritik açığı kapatan yamalar yayımladı. En tehlikeli açık CVE-2026-44748, CVSS skoru 9.9 ile SAML kimlik doğrulamasını hedef alıyor.",
+          "why": "Kurumsal ERP sistemlerini hedef alan bu kritik açıklar, dünya genelindeki SAP altyapılarında kimlik doğrulama ve veri güvenliğini tehdit ettiğinden acil yama uygulaması hayati önem taşıyor.",
           "sourceUrl": "https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/",
-          "sourceTitle": "SAP Patches Critical NetWeaver, Commerce Vulnerabilities | SecurityWeek"
+          "sourceTitle": "SAP Patches Critical NetWeaver, Commerce Vulnerabilities – SecurityWeek"
         },
         {
-          "summary": "2026'da küresel AI startup fonlaması patlama yaşıyor: Yalnızca Q1'de 255 milyar dolar yatırım yapıldı; bu rakam 2025'in tüm yılını geride bıraktı. OpenAI (122B$), Anthropic (30B$) ve xAI (20B$) mega turlarıyla sermayenin büyük bölümünü topladı.",
-          "why": "AI fonlamasındaki bu eşi görülmemiş ivme, kurumsal yapay zeka araçlarına yönelik talebin ve büyük model altyapısına yapılan stratejik yatırımların ne denli hızlandığını gösteriyor.",
-          "sourceUrl": "https://aifundingtracker.com/top-50-ai-startups/",
-          "sourceTitle": "50 Top AI Funded Startups (June 2026) | AI Funding Tracker"
+          "summary": "Haziran 2026'da AI model yarışı yoğunlaştı: Google'dan Gemini 3.5 Pro, Anthropic'ten Claude Mythos 1, xAI'dan Grok 5 ve yeni bir Sonnet varyantı aynı ay içinde piyasaya sürüldü. AI Flash Report'a göre yeni modeller yaklaşık her 2 günde bir çıkıyor.",
+          "why": "Dört büyük AI sağlayıcısının eş zamanlı model çıkışı, kurumsal yazılım geliştiricileri için model seçim kararlarını karmaşıklaştırıyor ve rekabeti tarihin en yüksek seviyesine taşıyor.",
+          "sourceUrl": "https://wavespeed.ai/blog/posts/june-2026-ai-launch-wave/",
+          "sourceTitle": "June 2026 AI Launch Wave: A Builder's Decision Map – WaveSpeed Blog"
+        },
+        {
+          "summary": "Meta, Çin'in Ulusal Kalkınma ve Reform Komisyonu'nun engeli üzerine 2 milyar dolarlık Manus AI girişimi satın alımını söküyor; iki şirket arasındaki operasyonel ayrılık tamamlanarak veri paylaşımı durduruldu.",
+          "why": "Bu gelişme, ABD-Çin arasındaki yapay zeka jeopolitiğinin doğrudan büyük teknoloji şirketlerinin M&A stratejilerini nasıl engellediğini gözler önüne seriyor.",
+          "sourceUrl": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+          "sourceTitle": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand – TechCrunch"
+        },
+        {
+          "summary": "2026 yılında AI girişimleri toplam risk sermayesinin yüzde 33'ünü çekiyor; erken aşama yatırımlarda değerlemeler rekor seviyelere ulaşırken, üretici yapay zeka araçları ve kurumsal makine öğrenmesi en fazla fon alan sektörler arasında yer alıyor.",
+          "why": "AI'a yönelik sermaye akışının bu denli yoğunlaşması, kurumsal yazılım ekosisteminde geleneksel ERP oyuncularını yeni AI-native rakiplere karşı savunmaya geçiriyor.",
+          "sourceUrl": "https://qubit.capital/blog/ai-startup-fundraising-trends",
+          "sourceTitle": "AI Startup Funding Trends 2026: Data, Rounds & What's Next – Qubit Capital"
+        },
+        {
+          "summary": "Google, Amazon, Microsoft ve Meta'nın 2026 için toplam sermaye harcaması tahmini 725 milyar dolara ulaşıyor; bu rakam 2025'e göre yüzde 77 artışa işaret ediyor. Harcamalar veri merkezleri, hesaplama altyapısı ve güç kaynaklarına yoğunlaşıyor.",
+          "why": "Bu benzeri görülmemiş yatırım dalgası, kurumsal AI altyapısında yeni bir dönemi başlatırken ERP ve kurumsal yazılım entegrasyon baskısını da hızlandırıyor.",
+          "sourceUrl": "https://finance.yahoo.com/sectors/technology/article/meta-microsoft-amazon-and-alphabet-are-about-to-spend-a-shocking-amount-of-money-to-dominate-the-ai-era-115359575.html",
+          "sourceTitle": "Meta, Microsoft, Amazon, and Alphabet AI Capex 2026 – Yahoo Finance"
         }
       ]
     },
@@ -41,34 +47,34 @@
       "status": "ok",
       "items": [
         {
-          "summary": "Avrupa Merkez Bankası Haziran 2026 toplantısında faizi 25 baz puan artırarak mevduat faizini %2,25'e çıkardı. Fed ise yeni başkan Kevin Warsh liderliğindeki ilk toplantıda faizi %3,75'te sabit tuttu.",
-          "why": "İki büyük merkez bankasının farklı yönlere gitmesi, küresel sermaye akışlarını ve kripto dahil risk varlıklarını doğrudan etkiliyor.",
-          "sourceUrl": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html",
-          "sourceTitle": "ECB Monetary Policy Decisions – June 2026"
-        },
-        {
-          "summary": "Bitcoin 25 Haziran'da %2,7 düşerek 59.334 dolara, Ethereum ise %2,8 gerileyerek 1.561 dolara indi. ETF çıkışları, CLARITY Yasası belirsizliği ve sermayenin yapay zeka hisselerine kayması düşüşün ana tetikleyicileri oldu.",
-          "why": "Kripto piyasasının uzayan ayı trendini sürdürmesi, kurumsal ilgi ve yatırımcı güveni açısından kritik bir dönüm noktasına işaret ediyor.",
+          "summary": "Bitcoin bugün 59.299 dolar, Ethereum ise 1.562 dolar seviyesine geriledi; her iki varlık da günlük yaklaşık %2,5 değer kaybetti. ETF çıkışları, CLARITY Yasası'nın gecikmesi ve sermayenin yapay zeka hisselerine göç etmesi düşüşün temel nedenleri olarak öne çıkıyor.",
+          "why": "Kripto yıllardır görülmemiş baskı seviyelerinde; makro ve regülasyon kaynaklı çift taraflı satış baskısı piyasa psikolojisini derinden etkiliyor.",
           "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-hits-its-lowest-levels-in-years-125308371.html",
-          "sourceTitle": "Bitcoin and Ethereum Prices Today, June 25, 2026 – Yahoo Finance"
+          "sourceTitle": "Bitcoin and Ethereum Prices Today, Thursday, June 25, 2026 – Yahoo Finance"
         },
         {
-          "summary": "Ethereum, piyasa genelindeki kaldıraç tasfiyesinden 189 milyon dolar zarar gördü; 600 milyon dolarlık uzun pozisyon zorla kapatıldı. Buna ek olarak spot ETH ETF'lerinden 82 milyon dolarlık net çıkış ve Ethereum Foundation'ın %20 işten çıkarma haberi de baskıyı artırdı.",
-          "why": "Kaldıraç kaynaklı kaskad tasfiyeler, ETH'nin kurumsal benimseme hikayesine olan güveni sarstı.",
-          "sourceUrl": "https://coinmarketcap.com/cmc-ai/ethereum/price-analysis/",
-          "sourceTitle": "Ethereum Price Analysis – CoinMarketCap, 25 June 2026"
+          "summary": "Avrupa Merkez Bankası, İran gerilimi ve Hürmüz Boğazı'ndaki petrol krizinden kaynaklanan enerji enflasyonuna karşı Haziran 2026'da 25 baz puan faiz artırarak mevduat faizini %2,25'e yükseltti. Bu, 2023'ten bu yana ilk ECB faiz artışı.",
+          "why": "ECB'nin sıkılaşma döngüsüne dönmesi küresel risk iştahını baskılıyor ve kripto dahil tüm riskli varlıkları doğrudan etkiliyor.",
+          "sourceUrl": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html",
+          "sourceTitle": "Monetary Policy Decisions – European Central Bank, June 2026"
         },
         {
-          "summary": "SEC, 2026-2030 stratejik planında dijital varlıkları birincil düzenleyici öncelik ilan etti. Daha önce yayımlanan SEC-CFTC ortak kılavuzu staking, airdrop ve wrapping işlemlerini menkul kıymet yasaları dışında tuttu.",
-          "why": "ABD'nin kripto için net bir sınıflandırma çerçevesi oluşturması, yıllardır süren SEC-CFTC yetki belirsizliğini gidererek kurumsal yatırımın önünü açıyor.",
-          "sourceUrl": "https://www.lw.com/en/us-crypto-policy-tracker/regulatory-developments",
-          "sourceTitle": "US Crypto Policy Tracker – Latham & Watkins, June 2026"
+          "summary": "SEC, kripto varlıklara federal menkul kıymet yasalarının nasıl uygulanacağına dair kapsamlı bir yorum yayımladı ve 2026-2030 Stratejik Planı'nda dijital varlıkları birincil öncelik olarak belirledi.",
+          "why": "Yıllardır süren düzenleyici belirsizliğin sona ermesi kurumsal kripto yatırımlarını ve ürün geliştirmeyi hızlandırabilir.",
+          "sourceUrl": "https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets",
+          "sourceTitle": "SEC Clarifies the Application of Federal Securities Laws to Crypto Assets – SEC.gov"
         },
         {
-          "summary": "Superstate kurucu ortağı Reid Cuming'in kurduğu onchain getiri girişimi Ground, Bain Capital Crypto ve ParaFi liderliğinde 3,6 milyon dolarlık pre-seed turu kapattı. Ground, fintech ve varlık yöneticilerine API ile onchain getiri ürünleri sunuyor.",
-          "why": "Kurumsal fintech altyapısını onchain getiriyle birleştiren bu model, TradFi-DeFi entegrasyonunun hız kazandığını gösteriyor.",
-          "sourceUrl": "https://www.theblock.co/amp/post/406040/superstate-co-founder-ground-funding-crypto-onchain-yield",
-          "sourceTitle": "Ground Pre-Seed Funding – The Block, June 24, 2026"
+          "summary": "Haziran 2026'da kripto VC yatırımları altyapı ve DeFi odaklı devam etti: bir DEX'e 75 milyon dolar Seri B, bir veri servisine 40 milyon dolar Seri B ve ONYX'e 20 milyon dolar Seri A dahil büyük turlar kapandı.",
+          "why": "Piyasa düşüşüne karşın VC'lerin altyapı ve kurumsal DeFi'ye yatırım yapmayı sürdürmesi, uzun vadeli yapısal güven sinyali veriyor.",
+          "sourceUrl": "https://crypto-fundraising.info/",
+          "sourceTitle": "Crypto Fundraising – Recent Private Fundraising Events"
+        },
+        {
+          "summary": "ABD'de kripto piyasa yapısını düzenleyecek CLARITY Yasası, SEC-CFTC yetki çatışmasını çözmeye yönelik olmasına rağmen yasama sürecinde yavaşladı; bu durum bugünkü BTC ve ETH satışlarının tetikleyicilerinden biri oldu.",
+          "why": "Yasal çerçevenin netleşmemesi kurumsal yatırımcıları temkinli tutuyor ve kripto piyasasındaki oynaklığı kronik hale getiriyor.",
+          "sourceUrl": "https://www.dlnews.com/articles/regulation/key-dates-for-us-crypto-regulation-in-2026/",
+          "sourceTitle": "Key Dates for US Crypto Regulation in 2026 – DL News"
         }
       ]
     },
@@ -79,6 +85,6 @@
       "items": []
     }
   ],
-  "generatedAt": "2026-06-25T17:50:39.973Z",
-  "costUsd": 0.8545
+  "generatedAt": "2026-06-25T17:52:54.512Z",
+  "costUsd": 0.7748
 }
