@@ -1,5 +1,15 @@
 {
-  "lastNumber": 0,
-  "latest": null,
-  "reports": []
+  "lastNumber": 1,
+  "latest": {
+    "reportNumber": 1,
+    "date": "2026-06-26",
+    "title": "2026-06-26 Günlük Bülten"
+  },
+  "reports": [
+    {
+      "reportNumber": 1,
+      "date": "2026-06-26",
+      "title": "2026-06-26 Günlük Bülten"
+    }
+  ]
 }
