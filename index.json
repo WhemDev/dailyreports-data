@@ -1,5 +1,15 @@
 {
-  "lastNumber": 0,
-  "latest": null,
-  "reports": []
+  "lastNumber": 3,
+  "latest": {
+    "reportNumber": 3,
+    "date": "2026-06-25",
+    "title": "Jalapeño Çipiyle Başlayan Yapay Zeka Atılımı, Kripto Piyasasını Çöküşe Sürüklüyor"
+  },
+  "reports": [
+    {
+      "reportNumber": 3,
+      "date": "2026-06-25",
+      "title": "Jalapeño Çipiyle Başlayan Yapay Zeka Atılımı, Kripto Piyasasını Çöküşe Sürüklüyor"
+    }
+  ]
 }
