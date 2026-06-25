@@ -1,0 +1,109 @@
+{
+  "reportNumber": 1,
+  "date": "2026-06-26",
+  "title": "2026-06-26 Günlük Bülten",
+  "topStory": "",
+  "sections": [
+    {
+      "key": "tech-ai",
+      "name": "Teknoloji & AI",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "SAP'ın Haziran 2026 Güvenlik Yama Günü, CVSS skoru 9.9'a ulaşan dört kritik açığı kapattı; NetWeaver AS ABAP, SAP Kernel, NetWeaver Java ve Commerce Cloud'daki SAML, RFC ve Java oturum katmanları risk altındaydı. Toplam 15 yeni güvenlik notu yayımlandı.",
+          "why": "Milyonlarca kurumsal kullanıcıyı doğrudan etkileyen ERP altyapısındaki kritik güvenlik açıkları, acil yama gerektiriyor ve CISO'lar için en öncelikli gündem maddesi.",
+          "sourceUrl": "https://erp.today/sap-june-2026-patch-day-critical-fixes-netweaver-abap-commerce-cloud/",
+          "sourceTitle": "SAP June Patch Day: Four Critical Fixes for NetWeaver, ABAP and Commerce Cloud | ERP Today"
+        },
+        {
+          "summary": "SAP, yeni Business AI Platform ve Joule Studio ile 'Özerk Kurumsal' vizyonunu duyurdu; AI ajanları ERP iş süreçlerine, veriye ve yönetişime entegre edilerek RISE with SAP ve SAP GROW teklifleri güncellendi.",
+          "why": "Kurumsal ERP'nin yapay zeka ile tam entegrasyonu, şirketlerin operasyonel modellerini kökten dönüştürme potansiyeli taşıyor.",
+          "sourceUrl": "https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/",
+          "sourceTitle": "SAP Unveils the Autonomous Enterprise | SAP Sapphire | SAP News Center"
+        },
+        {
+          "summary": "Anthropic, 65 milyar dolarlık Series H turu ile 965 milyar dolar değerlemeye ulaşarak OpenAI'ı geride bıraktı ve dünyanın en değerli özel AI şirketi oldu; yıllık gelir koşma hızı 47 milyar dolara çıktı.",
+          "why": "AI startup ekosistemindeki sermaye yoğunlaşması ve değerleme rekabeti, tüm sektörün dinamiklerini şekillendiriyor.",
+          "sourceUrl": "https://aifundingtracker.com/top-50-ai-startups/",
+          "sourceTitle": "50 Top AI Funded Startups (June 2026)"
+        },
+        {
+          "summary": "Haziran 2026'da GPT-5.5, Gemini 3.x ve Codestral öne çıkan model sürümleri oldu; rekabet artık en akıllı model değil, en uygun maliyetli ve işe özgü model ekseninde yoğunlaşıyor.",
+          "why": "Kurumsal ekiplerin AI model seçimi giderek stratejik bir maliyet ve verimlilik kararına dönüşüyor.",
+          "sourceUrl": "https://blog.mean.ceo/new-ai-model-releases-news-june-2026/",
+          "sourceTitle": "New AI Model Releases News | June, 2026 (STARTUP EDITION)"
+        },
+        {
+          "summary": "Alphabet, 24 Haziran'da Verizon'ın yerini alarak Dow Jones Sanayi Endeksi'ne girdi; aynı hafta Meta 299 dolardan başlayan yeni nesil akıllı gözlüğünü piyasaya sürdü.",
+          "why": "Alphabet'in DJIA'ya girmesi büyük teknoloji şirketlerinin geleneksel piyasa endekslerindeki ağırlığını daha da artırırken, Meta'nın hamlesi giyilebilir AI yarışını hızlandırıyor.",
+          "sourceUrl": "https://www.cnbc.com/technology/",
+          "sourceTitle": "Tech | CNBC"
+        }
+      ]
+    },
+    {
+      "key": "finance-crypto",
+      "name": "Finans & Kripto",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Bitcoin 25-26 Haziran'da 60.000 doların altına inerek 2024'ten bu yana en düşük seviyesini gördü; 26 Haziran itibarıyla ~59.442 dolar seviyesinde seyrediyor. ETH de yaklaşık 1.561 dolara geriledi. BTC, 2026 başından bu yana yaklaşık %27 değer kaybetti.",
+          "why": "60.000 dolar psikolojik destek seviyesinin kırılması, piyasada panik satışlarını ve kaldıraçlı pozisyon tasfiyelerini hızlandırdığından tüm kripto piyasası için kritik bir eşik.",
+          "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-tumbles-further-below-60000-125308371.html",
+          "sourceTitle": "Bitcoin and ethereum prices today, Thursday, June 25, 2026 – Yahoo Finance"
+        },
+        {
+          "summary": "Fed, Haziran 2026 toplantısında faizi dördüncü kez üst üste %3,50-3,75'te sabit tuttu. Yeni başkan Kevin Warsh liderliğinde açıklanan dot plot, 2026 için beklenen faiz indirimini sildi; 9 yetkili bu yıl en az bir artış öngörüyor. 2026 PCE enflasyon tahmini %3,6'ya çıkarıldı.",
+          "why": "Faiz indiriminin 2027-2028'e ertelenmesi ve artış ihtimalinin masaya gelmesi, risk varlıklarına olan iştahı doğrudan baskılamakta ve kripto satışlarını hızlandırmaktadır.",
+          "sourceUrl": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
+          "sourceTitle": "Fed interest rate decision June 2026: Fed holds rates steady – CNBC"
+        },
+        {
+          "summary": "Strategy (eski adıyla MicroStrategy), yıllar içinde ilk kez Bitcoin sattı. Bu gelişme, ABD spot Bitcoin ETF'lerinden 10 ardışık işlem günü boyunca toplamda yaklaşık 3 milyar dolarlık (40.000 BTC) net çıkışı tetikledi. Balinalar da geçen hafta içinde yaklaşık 25.000 BTC elden çıkardı.",
+          "why": "'Asla satma' anlatısının kırılması kurumsal güveni sarstı ve zincirleme satış dalgasını başlatarak piyasanın yapısal zayıflığını gözler önüne serdi.",
+          "sourceUrl": "https://www.tradingkey.com/analysis/cryptocurrencies/btc/261945885-crypto-bitcoin-btc-price-crashing-usd-strategy-fed-tradingkey",
+          "sourceTitle": "2026 Crypto Crash Causes: Why Bitcoin Prices Broke Through Key Levels? – TradingKey"
+        },
+        {
+          "summary": "Bitcoin'in düşüşünün makroekonomik arka planında ABD-İran çatışmasının körüklediği enerji fiyatı artışları ve enflasyon baskısı yer alıyor. Kripto piyasası toplam değeri, geçen yılki 4,2 trilyon dolarlık zirveden yaklaşık 2 trilyon dolar düşerek 2,18 trilyon dolara geriledi; bu %48'lik bir erozyon anlamına geliyor.",
+          "why": "Jeopolitik riskler hem enflasyonu artırarak faiz indirimlerini geciktiriyor hem de yatırımcıları kripto gibi riskli varlıklardan çıkmaya zorluyor; bu iki etki birbini pekiştiriyor.",
+          "sourceUrl": "https://intellectia.ai/blog/bitcoin-crash-below-60000-june-2026",
+          "sourceTitle": "Bitcoin Crashes Below $60,000: Crypto Market Selloff Analysis June 2026 – Intellectia AI"
+        },
+        {
+          "summary": "CLARITY Act'ın ABD Kongresi'ndeki ilerleyişindeki yavaşlama ve kripto düzenleyici çerçevesindeki belirsizlik, kurumsal sermayenin kripto'dan yapay zeka hisselerine kaymasını hızlandıran etkenlerden biri olarak öne çıkıyor.",
+          "why": "Regülatör netliğinin yokluğu, spot ETF çıkışlarını beslemekte ve kurumsal yatırımcıların risk profilini yükseltmekte; bu da kısa vadede fiyat toparlanmasını güçleştirmektedir.",
+          "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-tumbles-further-below-60000-125308371.html",
+          "sourceTitle": "Bitcoin and ethereum prices today, Thursday, June 25, 2026 – Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "name": "Genel",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Keir Starmer, Mayıs 2026 yerel seçimlerindeki ağır yenilginin ardından birden fazla bakanın istifasıyla derinleşen parti içi güven bunalımı sonucunda İngiltere Başbakanlığı'ndan istifa ettiğini duyurdu. Bu gelişmeyle Birleşik Krallık 10 yılda yedinci başbakanını görevden uğurladı.",
+          "why": "Batı'nın en büyük demokrasilerinden birinde siyasi istikrarsızlık küresel güvenlik ve ekonomi politikaları açısından belirsizlik yaratıyor.",
+          "sourceUrl": "https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_crisis",
+          "sourceTitle": "2026 Labour Party leadership crisis – Wikipedia"
+        },
+        {
+          "summary": "Avrupa'yı saran tarihi sıcak hava dalgasında Fransa tarihinin en sıcak gününü yaşadı, İspanya 1950'den bu yana rekor kırdı ve İngiltere'de Haziran ayı sıcaklık rekoru tarihe geçti. Ölümcül dalga onlarca can aldı, okullar kapatıldı, Paris'te Eyfel Kulesi ve Louvre erken kapandı.",
+          "why": "İklim değişikliğiyle bağlantılı aşırı hava olayları artık direkt ekonomik, insani ve altyapısal krizlere dönüşüyor.",
+          "sourceUrl": "https://www.nbcnews.com/world/europe/europe-heatwave-france-spain-uk-record-temperatures-eiffel-tower-rcna351710",
+          "sourceTitle": "Temperature records smashed as extreme heat wave grips Europe – NBC News"
+        },
+        {
+          "summary": "BM Nükleer Ajansı Başkanı Grossi, ABD-İran geçici anlaşması çerçevesinde İran'ın nükleer tesislerinin UAEA tarafından denetleneceğini açıklarken Tahran, bu tür bir ziyaretin ancak nihai anlaşmanın ardından mümkün olabileceğini savundu; taraflar arasındaki çelişkili açıklamalar kırılgan süreci tehdit ediyor.",
+          "why": "İran'ın nükleer programının denetimi, Orta Doğu'da ve küresel çapta nükleer yayılmanın önlenmesi açısından kritik öneme sahip.",
+          "sourceUrl": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
+          "sourceTitle": "U.N. nuclear chief says inspectors will visit Iran, but Iran says only after final deal – NPR"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-06-25T23:42:49.424Z",
+  "costUsd": 2.4356
+}
