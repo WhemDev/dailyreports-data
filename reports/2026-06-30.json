@@ -1,0 +1,121 @@
+{
+  "reportNumber": 2,
+  "date": "2026-06-30",
+  "title": "2026-06-30 Günlük Bülten",
+  "topStory": "",
+  "sections": [
+    {
+      "key": "tech-ai",
+      "name": "Teknoloji & AI",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "SAP, Haziran 2026 itibarıyla Joule Studio 2.0'ı kullanıma sunmaya başladı. Yeni SAP Business AI Platform; Business Data Cloud, Knowledge Graph ve Domain Model'i birleştiren bir 'context layer' ile kurumsal AI'ın önündeki en büyük engel olan veri parçalanması sorununu çözüyor ve ajanlı iş akışlarını üretim ortamına taşıyor.",
+          "why": "Kurumsal AI'ı pilot aşamasında kilitleyen veri semantiği sorunu artık SAP ekosisteminde çözülebilir hale geldi; bu ERP tabanlı AI dönüşümünü hızlandıracak kritik bir eşik.",
+          "sourceUrl": "https://erp.today/sap-business-ai-platform-consolidates-sap-btp-stack-to-solve-enterprise-ai-fragmentation/",
+          "sourceTitle": "SAP Sapphire 2026: SAP Business AI Platform Consolidates SAP BTP Stack"
+        },
+        {
+          "summary": "OpenAI, GPT-5.6 ailesini Sol, Terra ve Luna olmak üzere üç yeteneklere katmanıyla duyurdu. Amiral gemisi Sol katmanı, paralel çalışan çoklu alt-ajan desteğiyle Terminal-Bench'te %91,9 rekor kırarken yayın öncesi hükümet koordinasyonlu önizleme süreci, frontier model lansmanlarında yeni bir endüstri standardı oluşturuyor.",
+          "why": "GPT-5.6, yalnızca yeni bir model değil; OpenAI'ın AI güvenliği, erişim politikası ve ajanlı yetenekler konusunda attığı yapısal bir adım olarak sektörün tamamını etkiliyor.",
+          "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-29-2026",
+          "sourceTitle": "AI News Today June 29 2026: 15 Biggest Stories"
+        },
+        {
+          "summary": "AI startup 8090, Salesforce Ventures ve Craft Ventures liderliğinde 135 milyon dolarlık Seri A yatırım turu kapattı. Şirket, yazılım geliştirme süreçlerini otomatize eden AI destekli 'Software Factory' platformunu büyütmeyi hedefliyor.",
+          "why": "Salesforce Ventures'ın bu büyüklükte bir kurumsal AI yatırımına öncülük etmesi, 'AI Software Factory' kategorisinin kurumsal yazılım alanında öncelikli yatırım hedefi haline geldiğini gösteriyor.",
+          "sourceUrl": "https://www.techcompanynews.com/latest-tech-news-june-29-2026/",
+          "sourceTitle": "Latest Tech News – June 29, 2026 - Tech Company News"
+        },
+        {
+          "summary": "OpenAI, Broadcom iş birliğiyle 'Jalapeño' adını verdiği özel çıkarım (inference) çipini tanıttı. Bu hamleyle OpenAI, Google, Apple ve SpaceX'in yanında Nvidia tek tedarikçi bağımlılığını kırmayı hedefleyen büyük teknoloji şirketleri arasına girdi.",
+          "why": "Özel AI çip geliştirme stratejisi, hem maliyet kontrolü hem de jeopolitik tedarik zinciri riski açısından sektörün en kritik yapısal dönüşümünü temsil ediyor.",
+          "sourceUrl": "https://techcrunch.com/",
+          "sourceTitle": "TechCrunch – OpenAI Jalapeño Chip"
+        },
+        {
+          "summary": "Crunchbase verilerine göre 2026'da ABD şirketleri, küresel tohum ile büyüme aşaması AI yatırımlarının yaklaşık %80'ini çekiyor. AI odaklı fonlama küresel startup yatırımlarını rekor seviyelere taşırken kazanımlar coğrafi olarak son derece eşitsiz dağılıyor.",
+          "why": "AI yatırımlarındaki bu coğrafi yoğunlaşma, AI boom öncesi dönemle kıyaslandığında keskin bir kopuşu işaret ediyor ve küresel teknoloji rekabetindeki dengeleri ABD lehine sertçe bozuyor.",
+          "sourceUrl": "https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/",
+          "sourceTitle": "The AI Startup Funding Boom Is Not A Global Phenomenon – Crunchbase"
+        }
+      ]
+    },
+    {
+      "key": "finance-crypto",
+      "name": "Finans & Kripto",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Fed, 17 Haziran FOMC toplantısında politika faizini %3,50–%3,75 aralığında sabit bıraktı. Yeni Başkan Kevin Warsh'ın ilk toplantısı, faiz indirimlerine daha az öncelik verileceğine işaret ediyor.",
+          "why": "Enflasyonun inatçı seyri ve Fed'in temkinli tutumu, risk varlıklarına yönelik baskının devam edeceğini gösteriyor.",
+          "sourceUrl": "https://www.usbank.com/investing/financial-perspectives/market-news/federal-reserve-tapering-asset-purchases.html",
+          "sourceTitle": "Federal Reserve Monetary Policy | U.S. Bank"
+        },
+        {
+          "summary": "Bitcoin 25 Haziran itibarıyla 60.983 dolara geriledi; Ethereum ise 1.619 dolara düştü. Ay başındaki ~67.000 dolar seviyesinden bu yana BTC %10'un üzerinde değer kaybetti.",
+          "why": "Makro belirsizlik ve risk iştahının daralması kripto piyasalarını negatif etkiliyor; BTC yıllardır görülmemiş düşük seviyeleri test ediyor.",
+          "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-hits-its-lowest-levels-in-years-125308371.html",
+          "sourceTitle": "Bitcoin and Ethereum Prices Today, June 25, 2026 | Yahoo Finance"
+        },
+        {
+          "summary": "SEC, kripto varlıklara federal menkul kıymetler yasalarının nasıl uygulanacağını netleştiren kapsamlı bir rehber yayımladı. Başkan Atkins, on yılı aşkın süredir devam eden belirsizliğin sonlandırıldığını açıkladı.",
+          "why": "Kurumsal yatırımcıların piyasaya girişini engelleyen düzenleyici belirsizlik büyük ölçüde gideriliyor; bu kripto adaptasyonunu hızlandırabilir.",
+          "sourceUrl": "https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets",
+          "sourceTitle": "SEC Clarifies Application of Federal Securities Laws to Crypto Assets | SEC.gov"
+        },
+        {
+          "summary": "Haziran 2026'da a16z crypto ve Abu Dhabi Investment Authority dahil 16'dan fazla yatırımcı tarafından bir L1/gizlilik altyapı projesine 355 milyon dolarlık dev bir tur yapıldı. Ayrıca Cambrian, Franklin Templeton ve Polychain liderliğinde 6 milyon dolarlık tohum turu kapattı.",
+          "why": "Kripto fiyatlarındaki düşüşe karşın kurumsal VC sermayesi altyapı katmanına akmaya devam ediyor; bu uzun vadeli yapısal büyüme sinyali.",
+          "sourceUrl": "https://crypto-fundraising.info/",
+          "sourceTitle": "CRYPTO Fundraising — Recent Private Fundraising Events"
+        },
+        {
+          "summary": "SEC, 2026–2030 Stratejik Planı'nda dijital varlıkları ve dağıtık defter teknolojisini kurumun öncelikli odak alanları arasına ilk kez resmi olarak aldı.",
+          "why": "SEC'in kripto sektörüne artık yapısal bir denetim perspektifinden yaklaşması, sektörün ana akım finansal sisteme entegrasyonunu hızlandıracak.",
+          "sourceUrl": "https://www.lw.com/en/us-crypto-policy-tracker/regulatory-developments",
+          "sourceTitle": "US Crypto Policy Tracker — Regulatory Developments | Latham & Watkins"
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "name": "Genel",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Trump, hafta sonu Körfez'de yaşanan ABD-İran karşılıklı saldırılarının ardından iki tarafın Katar'da müzakere masasına oturacağını açıkladı; İran ise herhangi bir görüşmeyi doğrulamadı. ABD Özel Temsilcisi Witkoff Doha'ya hareket etti, Hürmüz Boğazı trafiği normale döndü.",
+          "why": "İran-ABD çatışması küresel enerji fiyatlarını ve deniz ticaretini doğrudan etkiliyor; diplomatik tırmanma ya da çöküş dünya ekonomisini derinden sarsabilir.",
+          "sourceUrl": "https://www.npr.org/2026/06/29/nx-s1-5874618/us-iran-talks",
+          "sourceTitle": "Trump says the U.S. and Iran will meet in Qatar after weekend attacks – NPR"
+        },
+        {
+          "summary": "Güney Afrika'da göçmen karşıtı grupların ilan ettiği '30 Haziran son tarihi' nedeniyle binlerce yabancı uyruklu ülkeden ayrıldı; polis ülke genelinde ek güvenlik önlemleri aldı. Kongolu mülteciler başta olmak üzere pek çok kişi ağır koşullarda sınırı geçmek zorunda kaldı.",
+          "why": "Tırmanan yabancı düşmanlığı ve kitlesel zorunlu göç, Güney Afrika'da insani bir krize ve bölgesel istikrarsızlığa yol açabilir.",
+          "sourceUrl": "https://www.france24.com/en/africa/20260629-thousands-foreign-nationals-leave-south-africa-ahead-june-30-deadline",
+          "sourceTitle": "Thousands of foreign nationals leave South Africa ahead of June 30 'deadline' – France 24"
+        },
+        {
+          "summary": "ABD Yüksek Mahkemesi 5-4 kararıyla, zamanında postaya verilip seçim gününden sonra teslim alınan oy pusulalarının sayılmasına onay verdi. Karar, ara seçimler öncesinde birçok eyaleti doğrudan etkiliyor.",
+          "why": "Seçim hukukundaki bu köklü değişiklik, yaklaşan ABD ara seçimlerinin sonuçlarını ve uzun vadeli demokratik normları doğrudan şekillendirebilir.",
+          "sourceUrl": "https://www.foxnews.com/politics/supreme-court-rules-mail-in-ballots-received-after-election-day",
+          "sourceTitle": "Supreme Court rules on mail-in ballots received after Election Day – Fox News"
+        },
+        {
+          "summary": "Kuzeydoğu Fransa'da bir paraşüt uçağı düştü; beş eğitmen, beş tandem atlayıcı ve pilot olmak üzere 11 kişi hayatını kaybetti. Fransız soruşturmacılar kazanın nedenini araştırıyor.",
+          "why": "Sivil havacılık güvenliğine ilişkin kaygıları yeniden gündeme taşıyan bu facia, Avrupa'da sporun denetim standartları konusundaki tartışmaları alevlendirebilir.",
+          "sourceUrl": "https://www.foxnews.com/world/french-investigators-probe-fatal-skydiving-plane-crash-killed-pilot-10-parachutists",
+          "sourceTitle": "French investigators probe fatal skydiving plane crash – Fox News"
+        },
+        {
+          "summary": "ABD Ulusal Hava Tahmin Servisi, bu hafta ülkenin geniş bir bölgesini tehlikeli bir ısı dalgasının vuracağı ve 4 Temmuz tatili öncesinde sıcaklıkların rekor seviyelere çıkacağı uyarısında bulundu.",
+          "why": "Aşırı sıcaklar halk sağlığını, enerji altyapısını ve tarımı tehdit ederken artan iklim kaynaklı acil durumların bir göstergesi olmaya devam ediyor.",
+          "sourceUrl": "https://www.cbsnews.com/news/dangerous-long-heat-wave-large-swathes-of-us-this-week/",
+          "sourceTitle": "Heat dome to scorch major U.S. cities this week – CBS News"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-06-30T05:04:13.773Z",
+  "costUsd": 1.2775
+}
