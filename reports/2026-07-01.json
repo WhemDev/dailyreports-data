@@ -1,0 +1,59 @@
+{
+  "reportNumber": 3,
+  "date": "2026-07-01",
+  "title": "2026-07-01 Günlük Bülten",
+  "topStory": "",
+  "sections": [
+    {
+      "key": "tech-ai",
+      "name": "Teknoloji & AI",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "SAP CEO Christian Klein, SAP Sapphire 2026'da şirketin 'bir yazılım şirketi mi olacağını?' sorguladığı açılış konuşmasında 'Otonom Süit' (Autonomous Suite) ile yeni ERP yığınını duyurdu. Joule Studio 2.0, ajan yönetişimi ve şirket hafızası bu dönüşümün merkezinde yer alıyor; SAP kendini artık bir kurumsal AI şirketi olarak konumlandırıyor.",
+          "why": "SAP'nin bu stratejik dönüşümü, ERP pazarını kökten yeniden tanımlıyor; kurumsal alıcıların AI ajanlarını nasıl inşa edip yöneteceği sorusu artık bir ERP seçim kriteri haline geliyor.",
+          "sourceUrl": "https://erp.today/will-sap-be-a-software-company-in-the-future-sapphire-2026-keynote-maps-saps-new-erp-stack/",
+          "sourceTitle": "'Will SAP Be a Software Company in the Future?' Sapphire 2026 Keynote Maps SAP's New ERP Stack – ERP Today"
+        },
+        {
+          "summary": "OpenAI, GPT-5.6 modelini duyurdu: Yeni model 'max reasoning effort' ile derinlemesine akıl yürütme kapasitesi ve birden fazla alt ajan kullanan 'ultra mode' özelliği sunuyor. Aynı zamanda GPT-4.5 ise 26 Haziran 2026 itibarıyla erişime kapatıldı.",
+          "why": "GPT-5.6'nın çok-ajanlı mimariye geçişi, AI'ın karmaşık iş süreçlerini otonom olarak yönetme eşiğini önemli ölçüde yükseltiyor.",
+          "sourceUrl": "https://releasebot.io/updates/openai",
+          "sourceTitle": "OpenAI Release Notes - July 2026 Latest Updates – Releasebot"
+        },
+        {
+          "summary": "2026 yılının ilk çeyreğinde küresel girişim yatırımları rekor kırdı: OpenAI (122 milyar $), Anthropic (30 milyar $), xAI (20 milyar $) ve Waymo (16 milyar $) tek başına 188 milyar $ topladı. Tüm Q1'de AI sektörüne akan 242 milyar $, küresel girişim fonlamasının yüzde 80'ini oluşturdu.",
+          "why": "Bu rakamlar, AI'a akan sermayenin artık piyasa dinamiklerini ve rekabeti yeniden şekillendirdiğini gösteriyor; tarihte görülmemiş bir sermaye yoğunlaşması yaşanıyor.",
+          "sourceUrl": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+          "sourceTitle": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B – Crunchbase"
+        },
+        {
+          "summary": "Büyük teknoloji şirketleri 2026 için rekor altyapı harcaması taahhüt etti: Amazon 200 milyar $, Alphabet 175-185 milyar $, Microsoft 145 milyar $ ve Meta 115-135 milyar $ olmak üzere dört şirket toplamda 635-665 milyar $ harcama planlıyor. Bu rakam, 2025'e kıyasla yüzde 67-74 artışa işaret ediyor.",
+          "why": "Bu ölçekteki veri merkezi ve AI çip yatırımı, tüm bulut ve kurumsal yazılım ekosistemini doğrudan etkiliyor; altyapı kapasitesi büyük ölçüde artacak.",
+          "sourceUrl": "https://finance.yahoo.com/news/big-tech-set-to-spend-650-billion-in-2026-as-ai-investments-soar-163907630.html",
+          "sourceTitle": "Big Tech set to spend $650 billion in 2026 as AI investments soar – Yahoo Finance"
+        },
+        {
+          "summary": "PwC'nin 2026 yılı ortası teknoloji raporuna göre Anthropic'in yıllık gelir oranı 30 milyar $'ı aşarken OpenAI Şubat itibarıyla 25 milyar $'ı geçti. SpaceX, Anthropic ve OpenAI'ın önümüzdeki dönemde halka arzlarla borsa yolculuğuna çıkması bekleniyor.",
+          "why": "AI şirketlerinin bu hızda gelir büyütmesi ve halka arza hazırlanması, sektörün olgunlaşma hızını ve kurumsal bütçeler üzerindeki baskıyı gözler önüne seriyor.",
+          "sourceUrl": "https://www.pwc.com/us/en/industries/tmt/library/technology-deals-outlook.html",
+          "sourceTitle": "Technology: US Deals 2026 Midyear Outlook – PwC"
+        }
+      ]
+    },
+    {
+      "key": "finance-crypto",
+      "name": "Finans & Kripto",
+      "status": "error",
+      "items": []
+    },
+    {
+      "key": "general",
+      "name": "Genel",
+      "status": "error",
+      "items": []
+    }
+  ],
+  "generatedAt": "2026-07-01T05:21:40.922Z",
+  "costUsd": 1.4681
+}
