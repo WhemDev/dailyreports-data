@@ -1,11 +1,16 @@
 {
-  "lastNumber": 2,
+  "lastNumber": 3,
   "latest": {
-    "reportNumber": 2,
-    "date": "2026-06-30",
-    "title": "2026-06-30 Günlük Bülten"
+    "reportNumber": 3,
+    "date": "2026-07-01",
+    "title": "2026-07-01 Günlük Bülten"
   },
   "reports": [
+    {
+      "reportNumber": 3,
+      "date": "2026-07-01",
+      "title": "2026-07-01 Günlük Bülten"
+    },
     {
       "reportNumber": 2,
       "date": "2026-06-30",
