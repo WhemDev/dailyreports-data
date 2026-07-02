@@ -1,0 +1,109 @@
+{
+  "reportNumber": 4,
+  "date": "2026-07-02",
+  "title": "2026-07-02 Günlük Bülten",
+  "topStory": "",
+  "sections": [
+    {
+      "key": "tech-ai",
+      "name": "Teknoloji & AI",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "BMC Software, SAP PartnerEdge Build statüsünü kazanarak iş orkestrasyon çözümü Control-M'i SAP Store üzerinden kullanıcılara sundu. Bu adım, kurumsal iş yükü otomasyonunu SAP ekosisteminin tam merkezine taşıyor.",
+          "why": "Kurumsal ERP müşterilerinin SAP Store üzerinden doğrudan üçüncü taraf iş otomasyon araçlarına erişebilmesi, SAP'ın platform stratejisinin genişlediğini gösteriyor.",
+          "sourceUrl": "https://erpnews.com/",
+          "sourceTitle": "ERP News – BMC Expands SAP Collaboration"
+        },
+        {
+          "summary": "Anthropic'in yeni frontier modeli Claude Sonnet 5, 30 Haziran 2026'da yayımlandı; uzun bağlamlı akıl yürütme, kodlama ve iş otomasyonu görevlerinde güçlü performansıyla öne çıkıyor.",
+          "why": "Frontier model yarışının yoğunlaştığı bu dönemde Anthropic'in üst düzey bir model yayımlaması, AI piyasasındaki rekabeti doğrudan etkiliyor.",
+          "sourceUrl": "https://blog.mean.ceo/new-ai-model-releases-news-july-2026/",
+          "sourceTitle": "New AI Model Releases News – July 2026 (Startup Edition)"
+        },
+        {
+          "summary": "OpenAI, GPT-5.6 modelini duyurdu: 'max reasoning effort' ile derin muhakeme ve 'ultra mode' ile alt ajan destekli iş akışı hızlandırma özelliklerini hayata geçirdi.",
+          "why": "GPT-5.6'nın çoklu ajan mimarisine geçişi, AI ajanlarının kurumsal süreçlerdeki rolünü köklü biçimde değiştirecek.",
+          "sourceUrl": "https://releasebot.io/updates/openai",
+          "sourceTitle": "OpenAI Release Notes – July 2026 (Releasebot)"
+        },
+        {
+          "summary": "İngiltere'nin National Grid'i, yapay zeka veri merkezlerine güç altyapısı inşa eden ABD'li Joulent'e 1,75 milyar dolar yatırım yaparak %35 pay aldı; ilk proje Microsoft veri merkezine bağlı 2,67 GW'lık bir doğalgaz santrali.",
+          "why": "Elektrik kıtlığı, AI'ın bir sonraki büyük darboğazı olarak öne çıkıyor; enerji şirketleri artık AI altyapısının doğrudan finansal ortağı konumuna geçiyor.",
+          "sourceUrl": "https://techstartups.com/2026/07/01/top-tech-news-today-july-1-2026/",
+          "sourceTitle": "Top Tech News Today, July 1, 2026 – Tech Startups"
+        },
+        {
+          "summary": "2026 Q1'de küresel girişim yatırımlarının %80'i (242 milyar dolar) yalnızca yapay zeka şirketlerine gitti; OpenAI, Anthropic, xAI ve Waymo tek başlarına 188 milyar dolar topladı.",
+          "why": "Sermayenin bu denli az sayıda AI şirketinde yoğunlaşması, ekosistem genelinde değerleme baskısı ve 'balon' tartışmalarını körüklüyor.",
+          "sourceUrl": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+          "sourceTitle": "Q1 2026 Shatters Venture Funding Records – Crunchbase"
+        }
+      ]
+    },
+    {
+      "key": "finance-crypto",
+      "name": "Finans & Kripto",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "ECB Yönetim Konseyi, enerji fiyatlarındaki yükselişe ve enflasyonun %2 hedefine yakın seyretmesine rağmen faiz oranlarını değiştirmeme kararı aldı; euro bölgesi ekonomisi dayanıklılığını koruyor.",
+          "why": "ECB'nin faiz duruşu, Avrupa'daki yatırım maliyetlerini ve küresel risk iştahını doğrudan etkiler.",
+          "sourceUrl": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260430~81b7179e6f.en.html",
+          "sourceTitle": "Monetary Policy Decisions – European Central Bank"
+        },
+        {
+          "summary": "Fed'in Nisan 28-29, 2026 FOMC toplantı tutanakları yayımlandı; merkez bankası finansal sistemin esnekliğini koruma hedefini sürdürüyor.",
+          "why": "FOMC tutanakları, piyasaların faiz yol haritasını fiyatlaması açısından kritik bir referans noktası oluşturuyor.",
+          "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260429.htm",
+          "sourceTitle": "FOMC Minutes, April 28-29, 2026 – Federal Reserve"
+        },
+        {
+          "summary": "Deloitte'un 2026 Küresel Ekonomik Görünüm raporu, Avustralya başta olmak üzere pek çok gelişmiş ekonomide enflasyonun 2026'nın ikinci yarısına kadar hedef aralığına inmesinin beklenmediğini ortaya koyuyor.",
+          "why": "Yapışkan enflasyon, merkez bankalarının faiz indirim sürecini yavaşlatarak hem kripto hem de geleneksel piyasalardaki risk iştahını baskı altında tutuyor.",
+          "sourceUrl": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook-2026.html",
+          "sourceTitle": "Global Economic Outlook 2026 – Deloitte Insights"
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "name": "Genel",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Trump yönetimi, 1 Temmuz 2026 yenileme son tarihini geçirerek USMCA ticaret anlaşmasını uzatmadı. Trump, ilk döneminde bizzat imzaladığı anlaşmaya artık soğuk baktığını ve daha iyi koşullar aradığını belirtti.",
+          "why": "Kanada ve Meksika ile yıllık 2 trilyon dolarlık ticareti düzenleyen anlaşmanın belirsizliğe girmesi, Kuzey Amerika tedarik zincirlerini ve küresel piyasaları doğrudan etkiliyor.",
+          "sourceUrl": "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html",
+          "sourceTitle": "U.S. won't renew USMCA, will review trade pact with Canada and Mexico – CNBC"
+        },
+        {
+          "summary": "ABD ve İran, Haziran 2026'da imzalanan 60 günlük ateşkes çerçevesinde Doha'da dolaylı müzakerelerini sürdürüyor. Ancak İran, Lübnan'daki çatışmaların bitmesini ve dondurulmuş fonların serbest bırakılmasını müzakere ön koşulu olarak öne sürüyor.",
+          "why": "Hürmüz Boğazı'nın kapanma tehdidi küresel enerji arzını felç edebilecek potansiyele sahip; bu nedenle müzakerelerin seyri tüm dünya ekonomilerini yakından ilgilendiriyor.",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/7/1/us-iran-negotiations-whats-the-latest",
+          "sourceTitle": "US-Iran negotiations: What's the latest? – Al Jazeera"
+        },
+        {
+          "summary": "İran, ABD-İsrail operasyonlarına karşılık olarak Hürmüz Boğazı'nı 'tamamen' kapatmakla tehdit etti ve bölgedeki enerji ile içme suyu altyapısını hedef alabileceğini açıkladı. Çatışma geniş çaplı bir bölgesel krize dönüşme riski taşıyor.",
+          "why": "Hürmüz Boğazı'nın kapanması küresel petrol arzının ciddi bir bölümünü kesintiye uğratır ve uluslararası enerji fiyatlarında ani şoklara yol açabilir.",
+          "sourceUrl": "https://en.wikipedia.org/wiki/2026_Iran_war",
+          "sourceTitle": "2026 Iran war – Wikipedia"
+        },
+        {
+          "summary": "Cumhurbaşkanı Trump, Katar tarafından hediye edilen yeni Boeing 747 Air Force One uçağıyla ilk resmi seferini gerçekleştirdi. Uçuş, Theodore Roosevelt Başkanlık Kütüphanesi'nin açılışı için Kuzey Dakota'ya yapıldı.",
+          "why": "Katar gibi bir yabancı hükümetin ABD başkanına resmi uçak bağışlaması, diplomatik ve anayasal açıdan ciddi tartışmaları beraberinde getiriyor.",
+          "sourceUrl": "https://www.foxnews.com/politics/trump-takes-inaugural-flight-aboard-new-air-force-one-ahead-library-debut-honoring-famed-outdoorsman",
+          "sourceTitle": "Trump takes inaugural flight aboard new Air Force One – Fox News"
+        },
+        {
+          "summary": "USMCA'nın yenilenmemesiyle birlikte ABD, Kanada ve Meksika arasındaki ticaret ilişkileri hukuki belirsizliğe girdi. Bloomberg'e göre anlaşma, Meksika çeliğinden Kanada sütüne kadar kapsamlı kurallar içeriyor ve çıkmaz bu sektörleri doğrudan etkiliyor.",
+          "why": "Kuzey Amerika'nın entegre üretim ve tarım zincirlerinin aksaması, ABD'deki enflasyon ve istihdam üzerinde kısa vadede somut etkiler yaratabilir.",
+          "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/usmca-limbo-looms-with-trump-cool-on-his-2-trillion-a-year-deal",
+          "sourceTitle": "USMCA Limbo Looms With Trump Cool on His $2 Trillion-a-Year Deal – Bloomberg"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-07-02T05:08:03.417Z",
+  "costUsd": 2.0168
+}
