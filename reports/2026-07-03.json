@@ -1,0 +1,121 @@
+{
+  "reportNumber": 5,
+  "date": "2026-07-03",
+  "title": "2026-07-03 Günlük Bülten",
+  "topStory": "",
+  "sections": [
+    {
+      "key": "tech-ai",
+      "name": "Teknoloji & AI",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "SAP ve IBM, SAP Cloud ERP Private platformunda AI inovasyonunu birlikte hızlandıracaklarını duyurdu. JYSK, GBM, DIFARE Group ve Plastilene Group gibi küresel işletmeler IBM Virtual Server üzerinde ERP modernizasyonunu hayata geçiriyor.",
+          "why": "Kurumsal ERP'de bulut ve AI entegrasyonu büyük şirketlerin dijital dönüşüm stratejilerini doğrudan şekillendiriyor.",
+          "sourceUrl": "https://news.sap.com/2026/07/ibm-technology-sap-cloud-erp-private-client-momentum-ai-innovation/",
+          "sourceTitle": "IBM Technology and SAP Cloud ERP Private Drive AI Innovation | SAP News Center"
+        },
+        {
+          "summary": "AI altyapı girişimi Together AI, Aramco Ventures liderliğinde 800 milyon dolarlık Seri C yatırım turunu kapattı. Aynı gün video anlama AI şirketi TwelveLabs de NEA liderliğinde 100 milyon dolarlık Seri B turunu tamamladı.",
+          "why": "Tek bir günde bu ölçekte iki büyük yatırım turunun kapanması, AI altyapısı ve multimodal AI alanına yönelik iştahın hâlâ son derece güçlü olduğunu kanıtlıyor.",
+          "sourceUrl": "https://startups.gallery/news",
+          "sourceTitle": "Best Startups with Recent Funding in 2026 | startups.gallery"
+        },
+        {
+          "summary": "Anthropic, 30 Haziran 2026 itibarıyla yeni sınır modeli Claude Sonnet 5'i kullanıma sundu. Google ise hızlı ve verimli konumlandırılan Gemini 3.5 Flash'ı model ailesine ekledi.",
+          "why": "Birden fazla sınır modelin art arda piyasaya çıkması, AI model yarışının ivme kazanmaya devam ettiğini gösteriyor.",
+          "sourceUrl": "https://blog.mean.ceo/new-ai-model-releases-news-july-2026/",
+          "sourceTitle": "New AI Model Releases News | July 2026 (STARTUP EDITION)"
+        },
+        {
+          "summary": "Microsoft 365 kurumsal fiyatlandırması 1 Temmuz 2026 itibarıyla güncellendi; Enterprise, Business, Frontline ve Government planlarını etkileyen bu değişiklikler AI, güvenlik ve yönetim kapasitelerindeki artışı yansıtıyor.",
+          "why": "Milyonlarca kurumsal kullanıcıyı doğrudan etkileyen bu fiyat güncellemesi, Microsoft'un Copilot ve AI özelliklerini abonelik maliyetlerine nasıl yansıttığının net bir göstergesi.",
+          "sourceUrl": "https://techstartups.com/2026/07/01/top-tech-news-today-july-1-2026/",
+          "sourceTitle": "Top Tech News Today, July 1, 2026 - Tech Startups"
+        },
+        {
+          "summary": "2026'nın ilk çeyreğinde OpenAI, Anthropic, xAI ve Waymo'nun toplamda 188 milyar dolar yatırım aldığı açıklandı; bu rakam tüm zamanların en büyük 5 yatırım turundan 4'ünü kapsıyor ve küresel startup yatırımlarını rekor 300 milyar dolara taşıdı.",
+          "why": "AI'a akan sermayenin boyutu, sektörün genel ekonomiyi ve teknoloji yatırımlarını yeniden şekillendirme kapasitesini ortaya koyuyor.",
+          "sourceUrl": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+          "sourceTitle": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B | Crunchbase News"
+        }
+      ]
+    },
+    {
+      "key": "finance-crypto",
+      "name": "Finans & Kripto",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "ECB, euro bölgesinde enflasyonun %2 hedefine yaklaştığını ve ekonominin dayanıklılık gösterdiğini belirterek üç ana politika faizini sabit tuttu. Yönetim Konseyi mevcut belirsizliği yönetmek için iyi konumda olduğunu vurguladı.",
+          "why": "Küresel merkez bankası duruşlarındaki değişim, risk iştahını ve kripto dahil tüm varlık fiyatlarını doğrudan etkiliyor.",
+          "sourceUrl": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260430~81b7179e6f.en.html",
+          "sourceTitle": "ECB Monetary Policy Decision – European Central Bank"
+        },
+        {
+          "summary": "Bitcoin 2 Temmuz 2026 sabahı 61.865 dolar seviyesinde işlem gördü; bu fiyat bir önceki güne kıyasla ~3.587 dolar artışa işaret etse de tarihi zirvesinin yaklaşık 47.000 dolar gerisinde kalıyor. Analistler BTC'nin 62.450 dolarlık 20 günlük EMA direncini kırmasını kritik eşik olarak izliyor.",
+          "why": "BTC'nin bu kilit direnç seviyesini kırıp kıramayacağı, kısa vadeli yükseliş senaryosu için belirleyici olacak.",
+          "sourceUrl": "https://fortune.com/article/price-of-bitcoin-07-02-2026/",
+          "sourceTitle": "Current price of Bitcoin for July 2, 2026 – Fortune"
+        },
+        {
+          "summary": "ABD'de 18 Temmuz 2026'da kripto piyasalarını düzenleyecek ek yönetmelikler yürürlüğe girecek. Piyasa katılımcılarının kural yapım sürecine dahil olabileceği savunuculuk fırsatları da gündemde.",
+          "why": "ABD'nin düzenleyici çerçevesi netleştikçe kurumsal sermayenin kripto pazarına girişi hızlanabilir veya yavaşlayabilir.",
+          "sourceUrl": "https://www.dlnews.com/articles/regulation/key-dates-for-us-crypto-regulation-in-2026/",
+          "sourceTitle": "Key dates for US crypto regulation in 2026 – DL News"
+        },
+        {
+          "summary": "Temmuz 2026'da Dragonfly Capital, Coinbase Ventures ve North Island Ventures ortaklığıyla bir AI/API gizlilik girişimi 65 milyon dolarlık Seri A turu kapattı; Robinhood destekli bir DeFi türev borsası da fon aldı. Bu turlar, kripto VC ekosisteminin yeniden canlandığına işaret ediyor.",
+          "why": "Kurumsal VC'lerin yeniden aktif olması, sektörün 2025 daralmasından çıkarak büyüme fazına girdiğinin sinyalini veriyor.",
+          "sourceUrl": "https://crypto-fundraising.info/",
+          "sourceTitle": "Crypto Fundraising – Recent Private Fundraising Events"
+        },
+        {
+          "summary": "Basel Bankacılık Denetim Komitesi, bankaların 2026'dan itibaren dijital varlık pozisyonlarını açıklamasını zorunlu kılan çerçeveleri onayladı. Düzenleyiciler aynı zamanda proof-of-reserves denetimini VASP uyumluluk standardı haline getiriyor.",
+          "why": "Bankacılık sisteminin kripto varlıklara olan maruziyetinin şeffaflaşması, kurumsal benimsemenin önündeki en büyük güven engelini kaldırıyor.",
+          "sourceUrl": "https://sumsub.com/blog/global-crypto-regulations/",
+          "sourceTitle": "Crypto Regulation in 2026: What Changed and What's Ahead – Sumsub"
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "name": "Genel",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "İran'ın Yüce Lideri Ali Hamaney'in cenaze töreni 4-9 Temmuz tarihleri arasında Tahran, Kum ve Meşhed'de yapılacak; milyonlarca kişinin katılımı bekleniyor ve tören, halefi Mojtaba Hamaney'in ilk büyük devlet töreni olacak. İran, bu devasa organizasyonla Trump yönetimine karşı güç mesajı vermeyi hedefliyor.",
+          "why": "Hamaney'in suikaste kurban gitmesinin ardından İran'ın yeni liderlik dönemi şekilleniyor; törenin boyutu ve güvenlik krizi bölgesel dengeleri doğrudan etkiliyor.",
+          "sourceUrl": "https://www.cnn.com/2026/07/03/middleeast/iran-leader-funeral-trump-intl",
+          "sourceTitle": "Iran sends defiant message to Trump with colossal funeral for slain Supreme Leader Ali Khamenei | CNN"
+        },
+        {
+          "summary": "ABD ve İran, dolaylı müzakerelerin ardından mutabakat muhtırasının ihlallerini takip etmek için ortak bir 'iletişim kanalı' kurmayı kabul etti. Müzakerelerden 'olumlu ilerleme' mesajı çıktı.",
+          "why": "Aylarca süren ABD-İsrail-İran savaşının ardından diplomatik kanalların yeniden açılması, bölgede ateşkes ve kalıcı çözüm umudunu yeşertiyor.",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks",
+          "sourceTitle": "Iran war live: 'Positive progress' as US, Tehran wrap up indirect talks | Al Jazeera"
+        },
+        {
+          "summary": "İran ordusu, Hürmüz Boğazı'ndan geçen tüm petrol tankerlerinin kendi belirlediği güzergâhları kullanmasını zorunlu kıldı; aksi takdirde 'güçlü karşılık' verileceğini açıkladı.",
+          "why": "Günlük 20 milyon varil petrolün geçtiği bu kritik boğazı kontrol altına alma girişimi, küresel enerji fiyatlarını ve deniz ticaretini doğrudan tehdit ediyor.",
+          "sourceUrl": "https://www.cbc.ca/news/world/iran-oil-tankers-strait-of-hormuz-9.7255677",
+          "sourceTitle": "Iran warns oil tankers to use approved routes in Strait of Hormuz or face 'forceful response' | CBC"
+        },
+        {
+          "summary": "ABD Yüksek Mahkemesi, 6'ya karşı 3 oyla Trump'ın doğum yeri vatandaşlığını kısıtlamayı amaçlayan başkanlık kararnamesini anayasaya aykırı bularak iptal etti. Yargıç Kavanaugh ise Kongre'ye yasa yoluyla kısıtlama yapılabileceğine dair bir yol haritası sundu.",
+          "why": "Bu karar, Trump'ın göç politikasının merkezindeki en tartışmalı adımlarından birini fiilen engelleyerek ABD anayasa hukukunda yeni bir kırılma noktası oluşturuyor.",
+          "sourceUrl": "https://www.foxnews.com/politics/trumps-hero-justice-offers-roadmap-supreme-court-rejects-birthright-order",
+          "sourceTitle": "Trump's 'hero' justice offers roadmap after Supreme Court rejects birthright order | Fox News"
+        },
+        {
+          "summary": "ABD'de Haziran ayında yalnızca 57.000 yeni iş yaratıldı ve ücret artışı üst üste üçüncü kez enflasyonun altında kaldı; bu durum işgücü piyasasında belirgin bir yavaşlamaya işaret ediyor.",
+          "why": "Tarife politikaları ve ticaret savaşlarının gölgesinde açıklanan bu zayıf istihdam verisi, ABD ekonomisinin resesyona yaklaştığı endişelerini güçlendiriyor.",
+          "sourceUrl": "https://www.nbcnews.com/business/economy/june-jobs-report-stable-hiring-rcna352603",
+          "sourceTitle": "U.S. economy adds just 57,000 jobs in June, a worrying sign as wage growth remains slow | NBC News"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-07-03T06:02:41.760Z",
+  "costUsd": 1.3087
+}
