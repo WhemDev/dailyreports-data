@@ -1,0 +1,103 @@
+{
+  "reportNumber": 6,
+  "date": "2026-07-04",
+  "title": "2026-07-04 Günlük Bülten",
+  "topStory": "",
+  "sections": [
+    {
+      "key": "tech-ai",
+      "name": "Teknoloji & AI",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "SAP ve IBM, 2 Temmuz 2026'da JYSK, GBM, DIFARE Group ve Plastilene Group gibi küresel şirketlerin SAP Cloud ERP Private on IBM Virtual Server üzerinden ERP modernizasyonunu hızlandırdığını ortaklaşa duyurdu. Bu iş birliği, AI destekli kurumsal dönüşümün üretim ortamlarına taşındığının somut bir göstergesi.",
+          "why": "SAP ve IBM'in birlikte müşteri referanslarıyla ilerlemesi, kurumsal ERP'nin artık teorik değil, canlı AI entegrasyonuyla şekillendiğini kanıtlıyor.",
+          "sourceUrl": "https://news.sap.com/2026/07/ibm-technology-sap-cloud-erp-private-client-momentum-ai-innovation/",
+          "sourceTitle": "IBM Technology and SAP Cloud ERP Private Drive AI Innovation | SAP News Center"
+        },
+        {
+          "summary": "AI altyapı girişimi Together AI, 1 Temmuz 2026'da Aramco Ventures öncülüğünde 800 milyon dolarlık Seri C yatırım turunu kapattı. Bu tur, 2026'nın ilk yarısındaki rekor AI fonlama dalgasının sürdüğünü gösteriyor.",
+          "why": "Aramco gibi enerji devlerinin AI altyapısına bu ölçekte girmesi, kurumsal ve bölgesel sermayenin frontier AI'a akışının ivme kazandığına işaret ediyor.",
+          "sourceUrl": "https://startups.gallery/news",
+          "sourceTitle": "Best Startups with Recent Funding in 2026 | startups.gallery"
+        },
+        {
+          "summary": "Microsoft, 3 Temmuz 2026'da 2,5 milyar dolar yatırım ve yaklaşık 6.000 kişilik ekiple 'Microsoft Frontier Company' adlı yeni bir operasyon biriminin kurulduğunu açıkladı. Birim, AI çağının endüstriyel dönüşümüne odaklanacak.",
+          "why": "Microsoft'un bu denli büyük ölçekli ve ayrı bir yapı kurması, şirketin AI'ı ana işten bağımsız bir sektör dönüşüm motoru olarak konumlandırdığını ortaya koyuyor.",
+          "sourceUrl": "https://techstartups.com/2026/07/03/top-tech-news-today-july-3-2026/",
+          "sourceTitle": "Top Tech News Today, July 3, 2026 - Tech Startups"
+        },
+        {
+          "summary": "Anthropic, Claude Sonnet 5'i yayına aldı; model Opus 4.8 performansına yaklaşan yetenekleriyle şimdiye kadarki en güçlü Sonnet sürümü olarak tanımlandı ve Ağustos 2026 sonuna kadar 2$/M token tanıtım fiyatıyla sunuluyor. Free ve Pro planlar için varsayılan model oldu.",
+          "why": "Frontier model rekabetinin hız kazandığı bir dönemde Sonnet 5'in fiyat-performans dengesini yeniden tanımlaması, kurumsal AI benimsemesini doğrudan etkiliyor.",
+          "sourceUrl": "https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx",
+          "sourceTitle": "Latest AI News July 2026 | AIToolsRecap"
+        },
+        {
+          "summary": "ABD hükümeti, OpenAI başta olmak üzere büyük AI şirketleriyle güçlü modellerin yayınlanmasına yönelik gönüllü standartlar üzerine ileri düzey müzakereler yürütüyor; kıyaslamalar, yayın zaman çizelgeleri ve gelişmiş modellere erişim kurallarını kapsayan bir duyuru önümüzdeki hafta bekleniyor.",
+          "why": "Hükümetin sektörle bu ölçekte müzakereye girmesi, AI düzenlemesinin somut bir politika çerçevesine kavuşmaya başladığının sinyalini veriyor.",
+          "sourceUrl": "https://techstartups.com/2026/07/02/top-tech-news-today-july-2-2026/",
+          "sourceTitle": "Top Tech News Today, July 2, 2026 - Tech Startups"
+        }
+      ]
+    },
+    {
+      "key": "finance-crypto",
+      "name": "Finans & Kripto",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Fed, Haziran 2026 FOMC toplantısında politika faizini %3,50–3,75 aralığında dördüncü kez üst üste değiştirmedi. Yeni Fed Başkanı Kevin Warsh'ın ilk başkanlık ettiği bu toplantıda 9 yetkili yıl içinde en az bir faiz artışı öngördü.",
+          "why": "Fed'in faiz kararı ve yeni başkanın duruşu, küresel risk iştahını ve kripto/hisse piyasalarını doğrudan etkileyen en kritik makro sinyal olmaya devam ediyor.",
+          "sourceUrl": "https://tradingeconomics.com/united-states/interest-rate",
+          "sourceTitle": "United States Fed Funds Interest Rate – Trading Economics"
+        },
+        {
+          "summary": "Nisan 2026 FOMC tutanakları, Fed'in faiz indirimini 2026'nın üçüncü/dördüncü çeyreğine ertelediğini ortaya koydu. Piyasalar, indirim zamanlamasını bir önceki ankere göre daha geç beklemeye başladı.",
+          "why": "İndirim beklentilerinin ötelenmesi tahvil getirilerini yukarı çekiyor ve risk varlıklarına olan talebi baskılıyor; bu durum BTC ve ETH gibi varlıkların fiyatlamasını doğrudan etkiliyor.",
+          "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260429.htm",
+          "sourceTitle": "FOMC Minutes April 28-29, 2026 – Federal Reserve"
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "name": "Genel",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Rusya, Ukrayna'nın Kyiv başkentine gece boyunca gerçekleştirdiği yoğun drone ve füze saldırısında en az 17-22 sivil hayatını kaybetti, onlarca kişi yaralandı. Moskova bu saldırıyı, Ukrayna'nın Rus petrol tesislerine yönelik vuruşlarına misilleme olarak tanımladı.",
+          "why": "Savaşın en ölümcül kentsel saldırılarından biri olması ve Rusya'da yakıt krizine yol açan Ukrayna'nın asimetrik stratejisinin tırmanmayı tetiklemesi nedeniyle kritik bir eşiği işaret ediyor.",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike",
+          "sourceTitle": "At least 22 killed in Kyiv as Zelenskyy warns of 'massive Russian strike' – Al Jazeera"
+        },
+        {
+          "summary": "İngiltere Başbakanı Keir Starmer, Mayıs 2026 yerel seçimlerindeki ağır yenilginin ve hükümet içi istifaların baskısıyla 22 Haziran'da istifa ettiğini duyurdu. Yeni lider olarak Andy Burnham öne çıkıyor; İngiltere böylece yedi yılda altıncı başbakanını değiştirmiş olacak.",
+          "why": "İngiltere'nin siyasi istikrarsızlığının derinleşmesi ve Trump yönetimiyle ilişkiler dahil kritik dış politika dosyalarının belirsizliğe sürüklenmesi açısından önem taşıyor.",
+          "sourceUrl": "https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_crisis",
+          "sourceTitle": "2026 Labour Party leadership crisis – Wikipedia"
+        },
+        {
+          "summary": "Kolombiya'nın cumhurbaşkanlığı ikinci tur seçiminde Trump'ın desteklediği sağcı aday Abelardo de la Espriella, sol eğilimli İván Cepeda karşısında son derece çekişmeli bir yarışta önde tamamladı. CNN, de la Espriella'nın ilk sayım zaferini kutladığını aktardı.",
+          "why": "Trump'ın desteklediği bir adayın Latin Amerika'nın büyük ekonomilerinden birinde iktidara gelmesi, bölgedeki ABD etkisinin geri dönüşünü simgeliyor ve Venezuela-Kolombiya ilişkilerini yeniden şekillendirecek.",
+          "sourceUrl": "https://www.cnn.com/world",
+          "sourceTitle": "Trump-backed de la Espriella celebrates winning preliminary count in razor-tight Colombian presidential runoff – CNN"
+        },
+        {
+          "summary": "Venezuela'nın 24 Haziran'da birbirini izleyen iki büyük depremle sarsılmasının ardından, zaten derin bir kriz içindeki ülkede insani durum daha da kötüleşti. NPR, depremlerin yıkıcı etkisini ve ülkenin kronik krizini aktardı.",
+          "why": "Yoğun göç baskısı, siyasi kriz ve ekonomik çöküşle boğuşan Venezuela'da bir doğal afet felaketi, bölgesel insani yükü daha da ağırlaştırıyor.",
+          "sourceUrl": "https://www.npr.org/sections/world/",
+          "sourceTitle": "Major developments after Venezuela earthquakes – NPR"
+        },
+        {
+          "summary": "ABD'nin 250. kuruluş yıl dönümü olan 4 Temmuz kutlamaları, ülke genelinde etkili olan sert sıcak hava dalgası nedeniyle tehdit altında. Etkinliklerin büyük bölümü iptal edilmek ya da kısaltılmak zorunda kalındı.",
+          "why": "Tarihi bir ulusal dönüm noktasında iklim krizinin doğrudan sonuçlarının hissedilmesi, siyasi bir mesaj niteliği taşıyor ve iklim politikasını gündeme taşıyor.",
+          "sourceUrl": "https://www.npr.org/sections/world/",
+          "sourceTitle": "July 4th events threatened by brutal heat wave – NPR"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-07-04T06:11:50.033Z",
+  "costUsd": 2.2945
+}
