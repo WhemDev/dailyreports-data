@@ -1,0 +1,121 @@
+{
+  "reportNumber": 7,
+  "date": "2026-07-12",
+  "title": "2026-07-12 Günlük Bülten",
+  "topStory": "",
+  "sections": [
+    {
+      "key": "tech-ai",
+      "name": "Teknoloji & AI",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "OpenAI, 9 Temmuz 2026'da GPT-5.6 model ailesini üç varyantla (Sol, Terra, Luna) piyasaya sürdü. Sol ana iş yükü modeli, Terra orta düzey, Luna ise bütçe dostu seçenek olarak konumlandırıldı.",
+          "why": "OpenAI'nın kısa aralıklarla yeni model aileleri çıkarması, AI rekabetinin hızını gösteriyor ve kurumsal kullanıcılar için fiyat-performans seçeneklerini genişletiyor.",
+          "sourceUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+          "sourceTitle": "OpenAI launches its new family of models with GPT-5.6 | TechCrunch"
+        },
+        {
+          "summary": "Microsoft, 'Microsoft Frontier Company' adında 2,5 milyar dolarlık taahhütle yeni bir kurumsal AI dağıtım şirketi kurduğunu duyurdu. Bu birim, mevcut Microsoft AI araçlarının enterprise ortamlara entegrasyonuna odaklanacak.",
+          "why": "Microsoft'un bu hamlesi, AI araç satışından AI dağıtım hizmetlerine geçişi simgeliyor; kurumsal benimseme sürtünmesini azaltmayı hedefliyor.",
+          "sourceUrl": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+          "sourceTitle": "Microsoft launches its own AI deployment company with $2.5 billion commitment | TechCrunch"
+        },
+        {
+          "summary": "SAP ve IBM, JYSK, GBM, DIFARE ve Plastilene Group gibi global şirketlerin IBM Power Virtual Server üzerinde SAP Cloud ERP Private'a geçtiğini açıkladı. Bu iş birliği, ERP modernizasyonunu güvenli bulut ortamlarına taşıyor.",
+          "why": "Büyük şirketlerin ERP'yi AI-ready bulut altyapısına taşıması, SAP'ın Joule AI ajanlarını operasyonel süreçlere yerleştirme stratejisini hızlandırıyor.",
+          "sourceUrl": "https://news.sap.com/2026/07/ibm-technology-sap-cloud-erp-private-client-momentum-ai-innovation/",
+          "sourceTitle": "IBM Technology and SAP Cloud ERP Private Drive AI Innovation | SAP News Center"
+        },
+        {
+          "summary": "xAI, 8 Temmuz 2026'da Grok 4.5 modelini piyasaya sürdü. Bu, OpenAI'nın GPT-5.6 duyurusundan yalnızca bir gün önce gerçekleşti.",
+          "why": "Frontier model yarışında xAI ile OpenAI arasındaki rekabet yoğunlaşıyor; hafta içinde iki büyük model lansmanı gerçekleşmesi sektörün ivmesini gösteriyor.",
+          "sourceUrl": "https://aireleasetracker.com/latest",
+          "sourceTitle": "Latest AI Model Releases — July 2026 | AI Release Tracker"
+        },
+        {
+          "summary": "6 Temmuz 2026 haftasının VC yatırım turunda Luxonis, robotik ve endüstriyel otomasyon için AI algılama platformuna 14 milyon dolar Seri A yatırım aldı. Yatırımcıların odağı AI donanımı, ajansal sistemler ve fiziksel dünyadaki AI uygulamalarına kaydı.",
+          "why": "Kurumsal ve robotik AI'ya yönelik yatırımların yoğunlaşması, sektörün salt yazılım modellerinden fiziksel dünya entegrasyonuna doğru olgunlaştığını işaret ediyor.",
+          "sourceUrl": "https://techstartups.com/2026/07/06/venture-capital-startup-funding-roundup-july-6-2026/",
+          "sourceTitle": "Venture Capital & Startup Funding Roundup, July 6, 2026 - Tech Startups"
+        }
+      ]
+    },
+    {
+      "key": "finance-crypto",
+      "name": "Finans & Kripto",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Federal Rezerv, faiz oranını %3,50–%3,75 bandında sabit tutarken enflasyon projeksiyonları %3,6'ya revize edildi. Piyasalar yılın ilerleyen dönemlerinde olası bir faiz artırımını fiyatlamaya başladı.",
+          "why": "Fed'in şahin duruşu hem kripto hem de genel risk iştahını baskı altında tutmaya devam ediyor.",
+          "sourceUrl": "https://intellectia.ai/blog/fed-interest-rate-decision-july-2026",
+          "sourceTitle": "Federal Reserve Interest Rate Decision July 2026 – Intellectia AI"
+        },
+        {
+          "summary": "Avrupa Merkez Bankası, 11 Haziran 2026'da faizi 25 baz puan artırarak mevduat faizini %2,25'e çıkardı; gerekçe olarak Orta Doğu kaynaklı enerji enflasyonu gösterildi.",
+          "why": "ECB'nin beklenmedik faiz artışı, küresel merkez bankası politikasının yeniden sıkılaşma yönüne döndüğünün sinyalini veriyor.",
+          "sourceUrl": "https://commonslibrary.parliament.uk/research-briefings/sn02802/",
+          "sourceTitle": "Interest Rates and Monetary Policy – House of Commons Library"
+        },
+        {
+          "summary": "Kevin Warsh, Senato tarafından 54-45 oyuyla Fed Başkanı olarak onaylandı; bu modern tarihin en kırılgan onay oyu. Bitcoin spot ETF'leri ise Haziran'da 4,5 milyar dolarlık rekor çıkışla tarihin en kötü ayını yaşadı.",
+          "why": "Warsh'ın Fed liderliğine gelmesi ve ETF çıkışları, kripto piyasasında kurumsal güven krizinin derinleştiğine işaret ediyor.",
+          "sourceUrl": "https://247wallst.com/investing/cryptocurrency/2026/07/02/bitcoin-price-prediction-for-july-2026/",
+          "sourceTitle": "Bitcoin Price Prediction for July 2026 – 24/7 Wall St."
+        },
+        {
+          "summary": "Bitcoin, Temmuz 2026'ya ~64.000-66.000 dolar bandında girerken ETF çıkışları ve makro baskılar fiyatı sınırlıyor. Teknik analistler, ETF girişlerinin geri dönüşünü dip sinyali olarak izliyor.",
+          "why": "BTC'nin bu kritik seviyeyi savunması, yıl sonu rallisi için belirleyici olabilir.",
+          "sourceUrl": "https://247wallst.com/investing/cryptocurrency/2026/07/02/bitcoin-price-prediction-for-july-2026/",
+          "sourceTitle": "Bitcoin Price Prediction for July 2026 – 24/7 Wall St."
+        },
+        {
+          "summary": "Ethereum, tarihinde ilk kez üst üste üç kırmızı çeyrek kaydetti ve Temmuz başında ~1.770 dolar seviyesinde kilit teknik direnç bölgesini test ediyor. Vitalik Buterin aynı dönemde 'Lean Ethereum' yol haritasını yayımladı.",
+          "why": "ETH'nin bu direnci kırıp kıramayacağı, Ethereum'un kısa vadeli piyasa hikayesini ve geliştirici güvenini doğrudan şekillendirecek.",
+          "sourceUrl": "https://cryptorank.io/news/feed/d6547-ethereum-price-prediction-july-2026-can-eth-close-above-1804",
+          "sourceTitle": "Ethereum Price Prediction July 2026: Can ETH Close Above $1,804? – CryptoRank"
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "name": "Genel",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "CSIS'in Temmuz 2026 raporuna göre Rusya'nın toplam kayıpları 1,4 milyona ulaştı; 2026'nın ilk yarısında Rusya yalnızca 97 km² toprak kazanabildi. Ukrayna, Kırım'daki 12 elektrik trafo merkezini imha etti.",
+          "why": "Savaşın seyrinin Rusya aleyhine döndüğünü gösteren bu veriler, olası müzakere dinamiklerini ve NATO'nun tutumunu doğrudan etkiliyor.",
+          "sourceUrl": "https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-july-8-2026",
+          "sourceTitle": "Russia-Ukraine War Report Card, July 8, 2026 – Russia Matters"
+        },
+        {
+          "summary": "Haziran 2026'da imzalanan kısa ömürlü Versay Mutabakat Muhtırası çöktü; ABD-İran çatışması Temmuz'da yeniden kıyı bombardımanları ve deniz ablukalarıyla alevlendi.",
+          "why": "İran Körfezi'ndeki yeniden tırmanma küresel enerji arzını ve bölgesel istikrarı doğrudan tehdit ediyor.",
+          "sourceUrl": "https://www.stl.news/2024-2026-u-s-iran-war-comprehensive-chronology/",
+          "sourceTitle": "The 2024–2026 U.S.-Iran War: Comprehensive Chronology – STL News"
+        },
+        {
+          "summary": "Deutsche Bank'ın Temmuz 2026 jeopolitik raporuna göre NATO savunma harcamalarındaki değişimler, tırmanan ticaret savaşları ve İran diplomasisi küresel piyasaları yeniden şekillendiriyor.",
+          "why": "NATO'nun yeni savunma harcama taahhütleri Avrupa ekonomileri ve transatlantik ilişkiler üzerinde belirleyici bir baskı oluşturuyor.",
+          "sourceUrl": "https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000632129/This_Month_in_Geopolitics:_July_2026.PDF",
+          "sourceTitle": "This Month in Geopolitics: July 2026 – Deutsche Bank Research Institute"
+        },
+        {
+          "summary": "Suudi Aramco ve Cezayir'in Sonatrach şirketi Temmuz için sıvılaştırılmış petrol gazı fiyatlarını sırasıyla %24-27 ve %2-10 oranında indirdi.",
+          "why": "Bu keskin düşüş, küresel enerji piyasalarındaki arz fazlasına ve jeopolitik gerginliğin yarattığı belirsizliğe işaret ediyor.",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Portal:Current_events/July_2026",
+          "sourceTitle": "Portal: Current Events / July 2026 – Wikipedia"
+        },
+        {
+          "summary": "Ukrayna, yurt içinde üretilen silah ve askeri teknolojilerin ihracatı için resmi bir mekanizmayı onayladı; bu gelirler Rusya'ya karşı savaş fonlamasında kullanılacak.",
+          "why": "Ukrayna'nın savunma sanayiini ihracata açması, ülkenin uzun vadeli mali sürdürülebilirliği ve Batı ile ilişkileri açısından stratejik bir dönüm noktası.",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Portal:Current_events/July_2026",
+          "sourceTitle": "Portal: Current Events / July 2026 – Wikipedia"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-07-12T05:08:13.437Z",
+  "costUsd": 1.3997
+}
