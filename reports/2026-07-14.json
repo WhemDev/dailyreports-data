@@ -1,0 +1,109 @@
+{
+  "reportNumber": 8,
+  "date": "2026-07-14",
+  "title": "2026-07-14 Günlük Bülten",
+  "topStory": "",
+  "sections": [
+    {
+      "key": "tech-ai",
+      "name": "Teknoloji & AI",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "OpenAI, GPT-5.6 model ailesini Sol, Terra ve Luna olmak üzere üç varyantla piyasaya sürdü. Model; kurumsal iş akışları, kodlama ve bilimsel araştırmada güçlü yetenekler sunuyor; ChatGPT Work masaüstü uygulaması da aynı anda yayınlandı.",
+          "why": "GPT-5.6'nın Microsoft Copilot 365 ile entegrasyonu ve ABD hükümeti onayıyla gerçekleşen aşamalı dağıtım, kurumsal AI benimsenmesini ve regülasyon dinamiklerini doğrudan etkiliyor.",
+          "sourceUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+          "sourceTitle": "OpenAI launches its new family of models with GPT-5.6 | TechCrunch"
+        },
+        {
+          "summary": "SAP, AI dönüşümünün maliyetini karşılamak için işe alım ve seyahat harcamalarını kısıtladığını açıkladı; bu yıl ikinci kez üst düzey yönetici kadrosunu yeniliyor.",
+          "why": "Dünyanın en büyük kurumsal yazılım şirketinin AI yatırımı için operasyonel tasarrufa gitmesi, ERP sektöründe AI odaklı yapısal dönüşümün ne kadar ciddi bir maliyet baskısı oluşturduğunu gösteriyor.",
+          "sourceUrl": "https://www.cio.com/article/3487010/sap-latest-news-and-insights.html",
+          "sourceTitle": "SAP: Latest news and insights | CIO"
+        },
+        {
+          "summary": "AI altyapı girişimi Together AI, Aramco Ventures liderliğinde Nvidia, Salesforce Ventures ve General Catalyst'in de katılımıyla 800 milyon dolarlık yatırım turunu kapattı.",
+          "why": "Temmuz 2026'nın en büyük AI altyapı yatırımlarından biri olan bu tur, sermayenin büyük ölçüde ABD merkezli AI altyapı şirketlerine akmaya devam ettiğini teyit ediyor.",
+          "sourceUrl": "https://techstartups.com/2026/07/01/venture-capital-startup-funding-roundup-july-1-2026/",
+          "sourceTitle": "Venture Capital & Startup Funding Roundup, July 1, 2026 - Tech Startups"
+        },
+        {
+          "summary": "Meta, kendi üretimi özel AI çiplerini üretime alıyor; bu hamle GPU tedarikçilerine olan bağımlılığı azaltmayı ve sosyal platform ölçeğinde AI altyapısını dikey entegre etmeyi hedefliyor.",
+          "why": "Meta'nın çip üretim hızlanması, Büyük Teknoloji şirketlerinin AI donanımında dikey entegrasyonunu yoğunlaştırarak Nvidia gibi GPU tedarikçileri üzerindeki baskıyı artırıyor.",
+          "sourceUrl": "https://techstartups.com/2026/07/13/top-tech-news-today-july-13-2026-apple-anthropic-blackstone-meta-openai-samsung-sharefile-more/",
+          "sourceTitle": "Top Tech News Today, July 13, 2026 - Tech Startups"
+        },
+        {
+          "summary": "SAP ve IBM, JYSK ve DIFARE Group dahil dört küresel şirketin IBM Power Virtual Server üzerinde SAP Cloud ERP Private'a geçiş yaptığını duyurdu.",
+          "why": "Büyük kurumsal müşterilerin güvenli bulut ortamlarında ERP modernizasyonunu hızlandırması, SAP'nin hibrit bulut ve AI stratejisinin somut pazar karşılığı bulduğunu gösteriyor.",
+          "sourceUrl": "https://news.sap.com/2026/07/ibm-technology-sap-cloud-erp-private-client-momentum-ai-innovation/",
+          "sourceTitle": "IBM Technology and SAP Cloud ERP Private Drive AI Innovation | SAP News Center"
+        }
+      ]
+    },
+    {
+      "key": "finance-crypto",
+      "name": "Finans & Kripto",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Fed, Temmuz 2026 toplantısında enflasyonun %2 hedefinin üzerinde seyretmeye devam etmesi nedeniyle beklenenden daha şahin bir tutum sergiledi; piyasalar yıl başında öngörülen faiz indirimlerini büyük ölçüde fiyatlamaktan vazgeçti.",
+          "why": "Fed'in faiz kararı küresel risk iştahını ve kripto dahil tüm varlık sınıflarını doğrudan etkiler.",
+          "sourceUrl": "https://intellectia.ai/blog/fed-interest-rate-decision-july-2026",
+          "sourceTitle": "Federal Reserve Interest Rate Decision July 2026: Market Impact Analysis"
+        },
+        {
+          "summary": "Japonya Merkez Bankası'nın (BoJ) politika faizini Temmuz 2026'ya kadar %1,0'e çıkarması bekleniyor; bu, onlarca yıllık negatif/sıfır faiz politikasından tarihi bir kopuşa işaret ediyor. İngiltere Merkez Bankası da enerji fiyatlarının yüksek seyretmesi nedeniyle şahin duruşunu koruyuyor.",
+          "why": "BoJ'nin normalleşme sürecine girmesi küresel tahvil piyasalarını ve risk varlıklarını yeniden fiyatlatabilir; 'carry trade' çözülmesi kripto piyasaları için sert dalgalanma riski taşır.",
+          "sourceUrl": "https://www.kucoin.com/blog/will-central-banks-in-the-world-start-to-increase-rate-in-2026",
+          "sourceTitle": "Will Central Banks in the World Start to Increase Rate in 2026? – KuCoin"
+        },
+        {
+          "summary": "2026 ortası itibarıyla küresel çekirdek enflasyon tam anlamıyla geri çekilmedi; çoğu büyük ekonomide merkez bankası faizleri ile enflasyon arasındaki makas daralmaya devam ediyor, ancak hedef seviyelere henüz ulaşılamadı.",
+          "why": "Enflasyonun yapışkan kalması, merkez bankalarının 'pivot' yapmasını geciktirerek risk varlıkları ve kripto üzerindeki baskıyı sürdürüyor.",
+          "sourceUrl": "https://www.statista.com/statistics/1317878/inflation-rate-interest-rate-by-country/",
+          "sourceTitle": "Inflation Rate and Interest Rate by Country 2026 – Statista"
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "name": "Genel",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "NATO'nun Ankara Zirvesi'nde müttefik liderler Ukrayna'ya 2026 yılı için 70 milyar Euro'luk askeri yardım taahhüt etti; Madde 5 kapsamındaki kolektif savunma bağlılığı yeniden teyit edildi ve Avrupalı müttefikler on yılda 1,2 trilyon dolarlık ek savunma harcaması yaptı.",
+          "why": "Zirvenin sonuçları, NATO'nun Ukrayna'daki savaşın seyrinde belirleyici bir aktör olmayı sürdüreceğini ve transatlantik savunma mimarisinin yeniden şekillendiğini gösteriyor.",
+          "sourceUrl": "https://www.nato.int/en/news-and-events/events/2026/07/overview---2026-nato-summit-in-ankara-",
+          "sourceTitle": "Overview - 2026 NATO Summit in Ankara"
+        },
+        {
+          "summary": "ABD-Ukrayna-Rusya arasındaki Cenevre barış görüşmeleri çıkmaza girdi; Trump yönetiminin yaz sonuna kadar ateşkes hedefi tutturulamadı, Zelenskyy ise Donbas'ı Rusya'ya bırakmayı içeren anlaşmaları reddediyor.",
+          "why": "Barış müzakerelerinin çökmesi, Ukrayna savaşının küresel güvenlik ve ekonomik istikrar üzerindeki baskısını sürdürmesi anlamına geliyor.",
+          "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States%E2%80%93Ukraine%E2%80%93Russia_meetings_in_Geneva",
+          "sourceTitle": "2026 United States–Ukraine–Russia meetings in Geneva - Wikipedia"
+        },
+        {
+          "summary": "İran destekli Husiler, Sana havalimanına yönelik hava saldırısının ardından Suudi Arabistan'a yeni saldırılar yapacaklarını ilan etti; bölgesel gerilim tırmanıyor.",
+          "why": "Husi tehditleri, İran nükleer geriliminin gölgesinde Körfez bölgesindeki kırılganlığı ve enerji güvenliği riskini artırıyor.",
+          "sourceUrl": "https://www.foxnews.com/world/iran-backed-terror-proxy-houthis-threaten-fresh-attacks-after-yemen-airport-strike",
+          "sourceTitle": "Houthis threaten fresh attacks after Yemen airport strike - Fox News"
+        },
+        {
+          "summary": "ABD Senatosunda hayatını kaybeden Senatör Lindsey Graham'ın yerine, Güney Carolina Valisi tarafından Graham'ın kız kardeşi Darline Graham Nordone atandı.",
+          "why": "Bu siyasi gelişme, Cumhuriyetçi Parti'nin ABD Senatosu'ndaki çoğunluk dengesini ve Trump gündemine yönelik oy dinamiklerini doğrudan etkiliyor.",
+          "sourceUrl": "https://www.cbsnews.com/news/lindsey-graham-replacement-senate-south-carolina-governor/",
+          "sourceTitle": "Darline Graham Nordone appointed to fill Lindsey Graham's Senate seat - CBS News"
+        },
+        {
+          "summary": "Paramount'un Warner Bros. Discovery'yi satın almasına karşı California liderliğinde birden fazla eyalet dava açtı; bu birleşme ABD'nin en büyük medya tekellerinden birini yaratacak.",
+          "why": "Dava, medya çoğulculuğu ve haber bağımsızlığı açısından ABD'deki medya tekelleşmesine yönelik artan yasal baskının somut bir göstergesi.",
+          "sourceUrl": "https://www.npr.org/2026/07/13/nx-s1-5879286/paramount-warner-bros-discovery-lawsuit",
+          "sourceTitle": "States sue to stop Paramount-Warner Bros blockbuster merger - NPR"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-07-14T05:04:35.401Z",
+  "costUsd": 1.9247
+}
