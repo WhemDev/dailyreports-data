@@ -1,0 +1,90 @@
+{
+  "reportNumber": 9,
+  "date": "2026-07-16",
+  "title": "2026-07-16 Günlük Bülten",
+  "topStory": "",
+  "sections": [
+    {
+      "key": "tech-ai",
+      "name": "Teknoloji & AI",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "SAP, yapay zeka dönüşümünün maliyetini karşılamak için işe alımları ve seyahat harcamalarını kısıtladığını açıkladı; bu yılın ikinci kez yaşanan üst düzey yönetici değişiklikleriyle birlikte şirket kapsamlı bir yeniden yapılanma içine girdi.",
+          "why": "Dünyanın en büyük kurumsal yazılım şirketinin AI'a bu denli agresif kaynak aktarması, ERP sektöründe AI entegrasyonunun artık stratejik bir zorunluluk haline geldiğini gösteriyor.",
+          "sourceUrl": "https://www.cio.com/article/3487010/sap-latest-news-and-insights.html",
+          "sourceTitle": "SAP: Latest news and insights | CIO"
+        },
+        {
+          "summary": "SAP ve IBM, JYSK ve Plastilene Group gibi küresel şirketlerin IBM Virtual Server üzerinde SAP Cloud ERP Private ile ERP modernizasyonunu hızlandırdığını ortak bir duyuruyla paylaştı.",
+          "why": "İki teknoloji devinin bu ortaklığı, kurumsal bulut ERP geçişinin büyük ölçekli endüstriyel müşterilerde de ivme kazandığını kanıtlıyor.",
+          "sourceUrl": "https://news.sap.com/2026/07/ibm-technology-sap-cloud-erp-private-client-momentum-ai-innovation/",
+          "sourceTitle": "IBM Technology and SAP Cloud ERP Private Drive AI Innovation | SAP News Center"
+        },
+        {
+          "summary": "OpenAI, GPT-5.6'yı Sol (en güçlü), Luna (hız odaklı) ve Terra (dengeli) olmak üzere üç ayrı versiyonla piyasaya sürdü; aynı zamanda iş dünyasına yönelik ChatGPT Work aracını da tanıttı.",
+          "why": "Çok katmanlı model stratejisi, OpenAI'ın bireysel kullanıcıdan kurumsal müşteriye kadar farklı segmentleri hedeflediğini ve rekabeti fiyat/performans ekseninde şekillendirdiğini ortaya koyuyor.",
+          "sourceUrl": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
+          "sourceTitle": "OpenAI releases GPT-5.6 and ChatGPT Work tool | Axios"
+        },
+        {
+          "summary": "SpaceX hissesi, Haziran 2026'daki tarihi halka arzının ardından 15 Temmuz itibarıyla ilk kez IPO fiyatı olan 135 doların altına indi; kısa dönemde kısa süreliğine 2 trilyon dolar piyasa değerine ulaşmıştı.",
+          "why": "Teknoloji hisselerindeki bu gerileme, AI ve uzay teknolojisi etrafında oluşan balon kaygılarını yeniden gündemin üst sıralarına taşıyor.",
+          "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-15-2026",
+          "sourceTitle": "Stock Market Today (July 15, 2026): SpaceX dips below IPO price | TheStreet"
+        },
+        {
+          "summary": "Meta'nın Muse Spark 1.1 modeli 9 Temmuz'da yayımlanırken, aireleasetracker.com verilerine göre Temmuz 2026'da OpenAI, Anthropic, Google DeepMind, Meta ve xAI'dan yoğun model çıkış trafiği yaşanıyor.",
+          "why": "Frontier AI modellerinin bu hızda birbirini takip etmesi, model yarışının 2026'da yeni bir ivmeye girdiğini ve kurumsal benimsenme döngüsünü kısalttığını gösteriyor.",
+          "sourceUrl": "https://aireleasetracker.com/latest",
+          "sourceTitle": "Latest AI Model Releases — July 2026 | aireleasetracker.com"
+        }
+      ]
+    },
+    {
+      "key": "finance-crypto",
+      "name": "Finans & Kripto",
+      "status": "error",
+      "items": []
+    },
+    {
+      "key": "general",
+      "name": "Genel",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "ABD Merkez Komutanlığı İran'a yönelik saldırılarını sürdürürken çatışma Hürmüz Boğazı kontrolü üzerinde yoğunlaşıyor; küresel petrol geçiş güzergahı tehdit altında.",
+          "why": "Hürmüz'ün kapanması veya kısıtlanması küresel petrol arzının yaklaşık %20'sini etkileyebilir, bu da enerji fiyatlarını ve dünya ekonomisini doğrudan sarsar.",
+          "sourceUrl": "https://geopoliticalfutures.com/",
+          "sourceTitle": "Geopolitical Futures"
+        },
+        {
+          "summary": "NATO'nun Ankara zirvesi, Türkiye'nin muhalif tutumu nedeniyle 'düşmanca' bir atmosferde sona erdi; ittifak içi çatlaklar derinleşiyor.",
+          "why": "Türkiye'nin NATO politikalarından sapması, özellikle Doğu Avrupa güvenliği açısından ittifakın caydırıcılığını zedeleme riski taşıyor.",
+          "sourceUrl": "https://www.geopoliticalmonitor.com/",
+          "sourceTitle": "Geopolitical Monitor"
+        },
+        {
+          "summary": "IMF, Temmuz 2026 güncellemesinde küresel büyüme tahminlerini aşağı yönlü revize ederek ticaret gerginlikleri ve jeopolitik belirsizliklere dikkat çekti.",
+          "why": "IMF'nin tahmin kesintileri, hükümetlerin ve yatırımcıların mali politikalarını yeniden şekillendirmesine yol açabilir.",
+          "sourceUrl": "https://www.imf.org/en/news/articles/2026/07/08/tr070826-weo-press-briefing-transcript-july-8-2026",
+          "sourceTitle": "IMF – World Economic Outlook Update July 2026"
+        },
+        {
+          "summary": "Libya kıyıları açıklarında ahşap bir tekne battı; 50'den fazla göçmen kayıp, yalnızca 10 kişi kurtarılabildi.",
+          "why": "Akdeniz göç rotasındaki ölümler, AB'nin sınır ve iltica politikası üzerindeki siyasi baskıyı artırıyor.",
+          "sourceUrl": "https://www.justsecurity.org/147315/early-edition-july-15-2026/",
+          "sourceTitle": "Just Security – Early Edition July 15, 2026"
+        },
+        {
+          "summary": "Filipinler'de Cumhurbaşkanı Yardımcısı Sara Duterte'nin görevden alma yargılaması Senato'da resmen başladı.",
+          "why": "Bu dava, Güneydoğu Asya'nın en kalabalık demokrasilerinden birinde siyasi istikrarı ve yönetim krizini doğrudan etkiliyor.",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Portal:Current_events/July_2026",
+          "sourceTitle": "Wikipedia – Portal: Current Events / July 2026"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-07-16T05:13:24.942Z",
+  "costUsd": 1.3146
+}
