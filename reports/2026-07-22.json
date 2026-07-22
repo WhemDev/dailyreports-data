@@ -1,0 +1,115 @@
+{
+  "reportNumber": 11,
+  "date": "2026-07-22",
+  "title": "2026-07-22 Günlük Bülten",
+  "topStory": "",
+  "sections": [
+    {
+      "key": "tech-ai",
+      "name": "Teknoloji & AI",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Alibaba, 2,4 trilyon parametreli Qwen3.8 Max modelini duyurdu. Model, Anthropic'in Fable 5'in ardından en büyük ikinci frontier model olarak konumlandırılıyor; Alibaba'nın kodlama platformlarında önizleme aşamasında olan model yakında açık ağırlıklı olarak da yayınlanacak.",
+          "why": "Çin'in frontier AI yarışındaki ivmesini gözler önüne seriyor: Moonshot Kimi K3 ve GLM-5.2'nin ardından bir hafta içinde gelen bu duyuru, küresel model liderlik sıralamasını yeniden şekillendiriyor.",
+          "sourceUrl": "https://techstartups.com/2026/07/20/top-tech-news-today-july-20-2026-alibaba-bezos-blackstone-google-moonshot-ai-nvidia-samsung-more/",
+          "sourceTitle": "Top Tech News Today, July 20, 2026 – Tech Startups"
+        },
+        {
+          "summary": "OpenAI, 9 Temmuz 2026'da GPT-5.6 ailesini (Sol, Terra, Luna) kamuoyuna sundu. Flagship model Sol; kodlama, biyoloji ve siber güvenlik alanlarında gelişmiş ajansal yetenekler sergilemesiyle öne çıkıyor.",
+          "why": "GPT-5.6 serisi, AI modellerinin chatbot olmaktan çıkıp gerçek dünya görevlerini otonom yürüten ajansal sistemlere evrildiğini somutlaştırıyor.",
+          "sourceUrl": "https://buildez.ai/blog/ai-new-model-july-2026-developments",
+          "sourceTitle": "AI New Model: July 2026 Developments & What's Next | BuildEZ Blog"
+        },
+        {
+          "summary": "ABD ve Çin, yapay zeka konusunda Eylül 2026'da resmi diplomatik görüşmeler yapacak. Görüşmeler, sınır AI modellerinin yarattığı güvenlik ve ekonomik risklere odaklanacak.",
+          "why": "Teknoloji savaşları ortamında iki süper güç arasında kurulan bu AI diplomasi kanalı, küresel AI yönetişimi açısından kritik bir ilk adım niteliği taşıyor.",
+          "sourceUrl": "https://techstartups.com/2026/07/21/top-tech-news-today-july-21-2026-anthropic-blackrock-tesla/",
+          "sourceTitle": "Top Tech News Today, July 21, 2026 – Tech Startups"
+        },
+        {
+          "summary": "SAP destekli yeni araştırma, kurumların AI yatırımlarından pozitif getiri elde ettiğini ortaya koydu; ancak şirketlerin büyük çoğunluğunun yönetişim yapısı bu hıza yetişemiyor. SAP aynı dönemde IBM ile birlikte küresel ERP modernizasyon ortaklıklarını genişletti.",
+          "why": "Kurumsal AI'ın artık ROI kanıtladığı bir aşamaya geçilmesi, yönetişim boşluğunu acil gündem maddesi haline getiriyor ve SAP gibi ERP oyuncularına yeni fırsatlar açıyor.",
+          "sourceUrl": "https://www.cio.com/article/3487010/sap-latest-news-and-insights.html",
+          "sourceTitle": "SAP: Latest News and Insights | CIO"
+        },
+        {
+          "summary": "2026 yılında AI girişimlerine akan fonların yaklaşık %88'i ABD merkezli şirketlere gitti. OpenAI'ın 730 milyar dolar değerlemeyle 110 milyar dolarlık finansman turunu kapattığı raporlanırken Bespoke Labs, AI ajan test altyapısı için 40 milyon dolar Seri A yatırımı aldı.",
+          "why": "Fonlamanın bu denli konsantrasyonu, temel model dışında kalan girişimler için rekabetin giderek zorlaştığını gösterirken AI altyapı ve değerlendirme katmanının yeni yatırım odağı haline geldiğine işaret ediyor.",
+          "sourceUrl": "https://blog.mean.ceo/ai-startup-funding-news-july-2026/",
+          "sourceTitle": "AI Startup Funding News | July 2026 (STARTUP EDITION)"
+        }
+      ]
+    },
+    {
+      "key": "finance-crypto",
+      "name": "Finans & Kripto",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "ABD Federal Rezervi faiz oranını %3,50–%3,75 bandında sabit tutarken yeni Fed Başkanı Kevin Warsh, ileriye dönük yönlendirmeyi kaldırıp tam veri bağımlılığı çerçevesine geçti. Mayıs 2026 CPI yıllık %4,2 ile Nisan 2023'ten bu yana en yüksek seviyede.",
+          "why": "Fed'in iletişim paradigmasını değiştirmesi ve yüksek enflasyon, piyasalardaki faiz indirim beklentilerini erteliyor ve risk varlıklarını baskı altına alıyor.",
+          "sourceUrl": "https://www.gomarkets.com/en/articles/us-market-drivers-july-2026",
+          "sourceTitle": "US markets in July: The key data, Fed signals and risks to watch"
+        },
+        {
+          "summary": "Bitcoin 21 Temmuz'da $66.398'e, Ethereum ise $1.935'e yükseldi; yatırımcıların risk iştahının geri dönmesiyle her iki varlık da haftayı pozitif kapattı.",
+          "why": "Teknik direnç seviyelerini test eden BTC ve ETH'nin Nasdaq-100 ile korelasyonu, makro duyarlılığın kripto üzerindeki belirleyici etkisini bir kez daha gösteriyor.",
+          "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-21-2026-crypto-prices-rise-as-investors-risk-appetite-returns-152323748.html",
+          "sourceTitle": "Bitcoin and ethereum prices today, Tuesday, July 21, 2026 – Yahoo Finance"
+        },
+        {
+          "summary": "SEC, Temmuz 2026'da dijital varlık arzı, broker-dealer saklama yükümlülükleri ve piyasa yapısına dair üç ayrı kripto düzenlemesi için resmi kural koyma sürecini başlatmaya hazırlanıyor. Bu adımlar Kongre'nin CLARITY Act oylamasından önce gelebilir.",
+          "why": "SEC'in yasama sürecini geçerek düzenleyici çerçeveyi şekillendirmesi, tüm kripto sektörünün uyum maliyetlerini ve iş modellerini doğrudan etkiliyor.",
+          "sourceUrl": "https://en.cryptonomist.ch/2026/07/11/sec-crypto-regulation-2026",
+          "sourceTitle": "SEC Crypto Regulation: Key July 2026 Rulemaking Initiatives"
+        },
+        {
+          "summary": "Kripto odaklı VC firması Paradigm, yapay zeka ve robotik yatırımlarına odaklanmak amacıyla 1,2 milyar dolarlık üçüncü fonu kapattı; bu hamle firmanın kripto ötesine geçişinin somut göstergesi.",
+          "why": "Kripto'nun önde gelen VC'sinin sermayesini AI'ya yönlendirmesi, sektördeki fon akışının hız ve yön değiştirdiğine işaret ediyor.",
+          "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/crypto-focused-vc-firm-paradigm-raises-1-2-billion-for-ai-bets",
+          "sourceTitle": "Crypto-Focused VC Firm Paradigm Raises $1.2 Billion for AI Bets – Bloomberg"
+        },
+        {
+          "summary": "Temmuz'da 20 Temmuz itibarıyla kripto sektöründe yaklaşık 25 yatırım turu tamamlandı; ancak DeFi fonlaması yeni bir dip seviyesine inerken sermaye CeFi ve altyapı projelerinde yoğunlaşıyor.",
+          "why": "DeFi'nin fon çekmedeki bu sert daralması, sektördeki düzenleyici belirsizlik ve yatırımcı ilgisinin köklü bir yapısal dönüşüme girdiğine işaret ediyor.",
+          "sourceUrl": "https://cryptonews.net/news/finance/33175801/",
+          "sourceTitle": "Crypto VC market stays active while DeFi funding falls to new low"
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "name": "Genel",
+      "status": "ok",
+      "items": [
+        {
+          "summary": "Fransız milletvekilleri, 15 yaş altı çocukların sosyal medya platformlarını kullanmasını yasaklayan yasa çıkardı. Fransa, AB'de bu alanda genel yasak uygulayan ilk ülke oldu.",
+          "why": "Dijital içeriklerin çocuklar üzerindeki zararları konusundaki küresel kaygılar bu yasayla somutlaştı; diğer AB ülkelerine de emsal teşkil edebilir.",
+          "sourceUrl": "https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban",
+          "sourceTitle": "French lawmakers approve a sweeping social media ban for children under 15 – NPR"
+        },
+        {
+          "summary": "Nikaragua Cumhurbaşkanı Daniel Ortega, ülkesinin artık hiçbir seçim düzenlemeyeceğini ilan etti; bu karar Kasım 2026'da yapılması gereken genel seçimleri de iptal etti.",
+          "why": "20 yıldır iktidarda olan Ortega'nın bu adımı, Latin Amerika'daki demokratik gerilemenin çarpıcı bir örneği olarak uluslararası kamuoyunun gündemine taşındı.",
+          "sourceUrl": "https://www.ijpr.org/npr-news/2026-07-21/nicaraguas-president-ortega-says-no-more-elections-extending-his-20-year-rule",
+          "sourceTitle": "Nicaragua's President Ortega says no more elections – Jefferson Public Radio"
+        },
+        {
+          "summary": "Deutsche Bank'ın Temmuz 2026 jeopolitik raporuna göre NATO'daki yapısal değişimler, tırmanan ticaret savaşları ve İran nükleer müzakereleri küresel piyasaları doğrudan etkiliyor.",
+          "why": "Birden fazla cephede aynı anda tırmanan jeopolitik gerilimler, yatırımcılar ve politika yapıcılar için yüksek düzeyde belirsizlik ortamı oluşturuyor.",
+          "sourceUrl": "https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000632129/This_Month_in_Geopolitics:_July_2026.PDF",
+          "sourceTitle": "This Month in Geopolitics: July 2026 – Deutsche Bank Research Institute"
+        },
+        {
+          "summary": "Fransa'nın sosyal medya yasağının AB hukukuyla çeliştiğine dair tartışmalar sürüyor; Brüksel, yasanın mevcut AB düzenlemelerini ihlal ettiğini öne sürüyor.",
+          "why": "Üye devletlerin dijital alanda AB mevzuatıyla çatışan ulusal düzenlemeler yapabilmesi, Avrupa'daki dijital egemenlik tartışmasını derinleştiriyor.",
+          "sourceUrl": "https://fortune.com/2026/07/20/france-teen-social-media-ban-eu-roadblock/",
+          "sourceTitle": "France wants to ban social media for kids — but Brussels says the bill breaks EU law – Fortune"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-07-22T11:07:53.507Z",
+  "costUsd": 1.2543
+}
